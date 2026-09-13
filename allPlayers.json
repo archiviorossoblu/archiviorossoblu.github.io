@@ -1,0 +1,7238 @@
+[
+    {
+        "name": "Abate Beniamino",
+        "country": "Italia",
+        "date": "1962-04-10",
+        "role": "Portiere",
+        "photo": "1192052639_abate.jpg",
+        "id": "117",
+        "birthplace": "San Martino V.C."
+    },
+    {
+        "name": "Abeijon Nelson",
+        "country": "Uruguay",
+        "date": "1973-07-21",
+        "role": "Centrocampista",
+        "photo": "1192053652_abeijon.jpg",
+        "id": "1",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Accursi Salvatore",
+        "country": "Italia",
+        "date": "1978-02-03",
+        "role": "Difensore",
+        "photo": "1216916764_accursi.jpg",
+        "id": "458",
+        "birthplace": "Locri (RC)"
+    },
+    {
+        "name": "Acosta Cammarota Rafael Eduardo",
+        "country": "Venezuela",
+        "date": "1989-02-13",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "453",
+        "birthplace": "Caracas (Venezuela)"
+    },
+    {
+        "name": "Acquafresca Robert",
+        "country": "Italia",
+        "date": "1987-09-11",
+        "role": "Attaccante",
+        "photo": "1192106504_acquafresca.jpg",
+        "id": "397",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Adan Garrido Antonio",
+        "country": "Spagna",
+        "date": "1987-05-13",
+        "role": "Portiere",
+        "photo": "1384932512_adan.jpg",
+        "id": "625",
+        "birthplace": "Madrid"
+    },
+    {
+        "name": "Adopo Michel Ndary",
+        "country": "Francia",
+        "date": "2000-07-19",
+        "role": "Centrocampista",
+        "photo": "1773928408_adopo.png",
+        "id": "785",
+        "birthplace": "Villeneuve-Saint-Georges (FRA)"
+    },
+    {
+        "name": "Agazzi Michael",
+        "country": "Italia",
+        "date": "1984-07-03",
+        "role": "Portiere",
+        "photo": "1356036985_219996.jpg",
+        "id": "565",
+        "birthplace": "Ponte San Pietro (BG)"
+    },
+    {
+        "name": "Agnoletto Andrea",
+        "country": "Italia",
+        "date": "1944-03-20",
+        "role": "Difensore",
+        "photo": "",
+        "id": "419",
+        "birthplace": "Treviso"
+    },
+    {
+        "name": "Agostini Alessandro",
+        "country": "Italia",
+        "date": "1979-07-23",
+        "role": "Difensore",
+        "photo": "1192057788_agostini.jpg",
+        "id": "11",
+        "birthplace": "Empoli"
+    },
+    {
+        "name": "Akarakiri Demi",
+        "country": "Italia",
+        "date": "2007-09-29",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "818",
+        "birthplace": "Londra"
+    },
+    {
+        "name": "Albarrac\u00edn Agust\u00edn",
+        "country": "Uruguay",
+        "date": "2005-08-29",
+        "role": "Attaccante",
+        "photo": "1774370398_albarracin.jpeg",
+        "id": "802",
+        "birthplace": "Montevideo (URU)"
+    },
+    {
+        "name": "Albertosi Enrico",
+        "country": "Italia",
+        "date": "1939-11-02",
+        "role": "Portiere",
+        "photo": "1191413431_albertosi.jpg",
+        "id": "335",
+        "birthplace": "Pontremoli (MS)"
+    },
+    {
+        "name": "Albino Marcello",
+        "country": "Italia",
+        "date": "1971-10-07",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192047685_albino.jpg",
+        "id": "15",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Aliprandi Alfredo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "587",
+        "birthplace": ""
+    },
+    {
+        "name": "Allegri Massimiliano",
+        "country": "Italia",
+        "date": "1967-08-11",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192040920_allegri.jpg",
+        "id": "145",
+        "birthplace": "Livorno"
+    },
+    {
+        "name": "Aloisi Antonio",
+        "country": "Italia",
+        "date": "1968-08-28",
+        "role": "Difensore-Centrale",
+        "photo": "1192058320_aloisi.jpg",
+        "id": "152",
+        "birthplace": "Ascoli Piceno"
+    },
+    {
+        "name": "Altare Giorgio",
+        "country": "Italia",
+        "date": "1998-08-09",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "741",
+        "birthplace": "Begamo"
+    },
+    {
+        "name": "Alvarez Edgar Anthony Reyes",
+        "country": "Honduras",
+        "date": "1980-09-01",
+        "role": "Centrocampista",
+        "photo": "1192058268_alvarez.jpg",
+        "id": "16",
+        "birthplace": "PUERTO CORTEZ (HON)"
+    },
+    {
+        "name": "Alves Bruno Eduardo Regufe",
+        "country": "Portogallo",
+        "date": "1981-11-27",
+        "role": "Difensore-Centrale",
+        "photo": "1465280723_Alves.jpg",
+        "id": "673",
+        "birthplace": "P\u00c3\u00b3voa de Varzim"
+    },
+    {
+        "name": "Ametrano Raffaele",
+        "country": "Italia",
+        "date": "1973-02-15",
+        "role": "Centrocampista",
+        "photo": "1192055580_ametrano.jpg",
+        "id": "92",
+        "birthplace": "Castellammare di Stabia (NA)"
+    },
+    {
+        "name": "Ancis Nicola",
+        "country": "Italia",
+        "date": "1974-02-08",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "172",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Andreolli Marco",
+        "country": "Italia",
+        "date": "1986-06-10",
+        "role": "Difensore-Centrale",
+        "photo": "1502351256_andreolli-1.jpg",
+        "id": "691",
+        "birthplace": "Ponte dell'Olio"
+    },
+    {
+        "name": "Aresti Simone",
+        "country": "Italia",
+        "date": "1986-03-15",
+        "role": "Portiere",
+        "photo": "1192059064_aresti.jpg",
+        "id": "373",
+        "birthplace": "Carbonia"
+    },
+    {
+        "name": "Ariaudo Lorenzo",
+        "country": "Italia",
+        "date": "1989-06-11",
+        "role": "Difensore",
+        "photo": "1356038169_lorenco_ariaudo.jpg",
+        "id": "562",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Arricca Alessandro",
+        "country": "Italia",
+        "date": "1978-05-13",
+        "role": "Centrocampista-Centrale",
+        "photo": "",
+        "id": "113",
+        "birthplace": "Livorno"
+    },
+    {
+        "name": "Asamoah Kwadwo",
+        "country": "Ghana",
+        "date": "1988-12-09",
+        "role": "Difensore-Terzino",
+        "photo": "",
+        "id": "739",
+        "birthplace": "Accra"
+    },
+    {
+        "name": "Astori Davide",
+        "country": "Italia",
+        "date": "1987-01-07",
+        "role": "Difensore",
+        "photo": "1378102491_astori.jpeg",
+        "id": "456",
+        "birthplace": "San Giovanni Bianco (BG)  "
+    },
+    {
+        "name": "Attruia Fabio",
+        "country": "Italia",
+        "date": "1964-04-06",
+        "role": "Portiere",
+        "photo": "",
+        "id": "255",
+        "birthplace": "Trieste"
+    },
+    {
+        "name": "Atzeni Alfredo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "601",
+        "birthplace": ""
+    },
+    {
+        "name": "Atzeni Marco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "602",
+        "birthplace": ""
+    },
+    {
+        "name": "Atzeri Stefano",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "234",
+        "birthplace": ""
+    },
+    {
+        "name": "Augello Tommaso",
+        "country": "Italia",
+        "date": "1994-08-30",
+        "role": "Difensore",
+        "photo": "1773928508_augello.jpg",
+        "id": "770",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Aurelio Giuseppe",
+        "country": "Italia",
+        "date": "2000-03-22",
+        "role": "Difensore",
+        "photo": "1787320471_VSPA3939-aurelio--1521x1014.jpg",
+        "id": "811",
+        "birthplace": "Bracciano"
+    },
+    {
+        "name": "Avedano Carlo",
+        "country": "Italia",
+        "date": "1924-08-30",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "519",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Avelar Danilo Fernando",
+        "country": "Brasile",
+        "date": "1989-06-09",
+        "role": "Difensore",
+        "photo": "1356038277_avelar.jpg",
+        "id": "618",
+        "birthplace": "Paranava\u00ed (BRA)"
+    },
+    {
+        "name": "Avramov Vlada",
+        "country": "Serbia",
+        "date": "1979-04-05",
+        "role": "Portiere",
+        "photo": "1356038355_avramov.jpg",
+        "id": "577",
+        "birthplace": "Novi Sad"
+    },
+    {
+        "name": "Azzali Claudio",
+        "country": "Italia",
+        "date": "1956-02-18",
+        "role": "Difensore",
+        "photo": "1191413270_azzali.jpg",
+        "id": "266",
+        "birthplace": "Motta Baluffi (CR)"
+    },
+    {
+        "name": "Azzi Paulo Daniel Dentello",
+        "country": "Brasile",
+        "date": "1995-07-15",
+        "role": "Difensore",
+        "photo": "1773928559_azzi.jpeg",
+        "id": "765",
+        "birthplace": "Braganca Paulista"
+    },
+    {
+        "name": "Baccheretti Dino",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "425",
+        "birthplace": ""
+    },
+    {
+        "name": "Badari Alessio",
+        "country": "Italia",
+        "date": "1946-05-28",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "364",
+        "birthplace": "Luzzara (RE)"
+    },
+    {
+        "name": "Bald\u00c3\u00a9 Diao Keita",
+        "country": "Senegal",
+        "date": "1995-03-08",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "745",
+        "birthplace": "Arbucies (SPA)"
+    },
+    {
+        "name": "Baldizzone Amedeo",
+        "country": "Italia",
+        "date": "1960-05-02",
+        "role": "Difensore",
+        "photo": "1191413286_baldizzone.jpg",
+        "id": "268",
+        "birthplace": "Genova"
+    },
+    {
+        "name": "Balestrelli Roberto",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "1220558488_balestrelli_r.jpg",
+        "id": "276",
+        "birthplace": ""
+    },
+    {
+        "name": "Balzano Antonio",
+        "country": "Italia",
+        "date": "1986-06-13",
+        "role": "Difensore",
+        "photo": "1504176384_balzano.jpeg",
+        "id": "636",
+        "birthplace": "Bitonto (BA)"
+    },
+    {
+        "name": "Banchelli Giacomo",
+        "country": "Italia",
+        "date": "1973-06-14",
+        "role": "Attaccante",
+        "photo": "1250879018_banchelli.jpg",
+        "id": "130",
+        "birthplace": "Montelupo (FI)"
+    },
+    {
+        "name": "Barberi Bruno",
+        "country": "Italia",
+        "date": "1933-09-22",
+        "role": "Difensore",
+        "photo": "",
+        "id": "483",
+        "birthplace": "Forte dei Marmi (Lucca)"
+    },
+    {
+        "name": "Barbieri Riccardo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "535",
+        "birthplace": ""
+    },
+    {
+        "name": "Barella Nicol\u00c3\u00b2",
+        "country": "Italia",
+        "date": "1997-02-07",
+        "role": "Centrocampista",
+        "photo": "1433253848_barella.jpg",
+        "id": "637",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Barone Enrico",
+        "country": "Italia",
+        "date": "1968-05-06",
+        "role": "Difensore",
+        "photo": "",
+        "id": "210",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Barone Simone",
+        "country": "Italia",
+        "date": "1978-04-30",
+        "role": "Centrocampista",
+        "photo": "1249680869_barone.jpg",
+        "id": "543",
+        "birthplace": "Nocera Inferiore"
+    },
+    {
+        "name": "Barozzi Roberto",
+        "country": "Italia",
+        "date": "1959-04-07",
+        "role": "Centrocampista",
+        "photo": "1192040956_barozzi.jpg",
+        "id": "203",
+        "birthplace": "Genova"
+    },
+    {
+        "name": "Barranco Candiano",
+        "country": "Italia",
+        "date": "1929-08-20",
+        "role": "Centrocampista",
+        "photo": "1237029266_Barranco.jpg",
+        "id": "502",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Barreca Antonio",
+        "country": "Italia",
+        "date": "1995-03-18",
+        "role": "Difensore",
+        "photo": "",
+        "id": "657",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Bartoli ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "594",
+        "birthplace": ""
+    },
+    {
+        "name": "Baselli Daniele",
+        "country": "Italia",
+        "date": "1992-03-12",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "753",
+        "birthplace": "Manerbio"
+    },
+    {
+        "name": "Bastrini Alessandro",
+        "country": "Italia",
+        "date": "1987-04-03",
+        "role": "Difensore-Terzino",
+        "photo": "1391249992_bastrini.jpg",
+        "id": "632",
+        "birthplace": "Domodossola"
+    },
+    {
+        "name": "Bega Francesco",
+        "country": "Italia",
+        "date": "1974-10-26",
+        "role": "Difensore",
+        "photo": "1192058283_bega.jpg",
+        "id": "12",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Beghetto Luigi",
+        "country": "Italia",
+        "date": "1973-07-06",
+        "role": "Attaccante",
+        "photo": "1192056112_beghetto.jpg",
+        "id": "65",
+        "birthplace": "Bassano del Grappa (VI)"
+    },
+    {
+        "name": "Bellanova Raoul",
+        "country": "Italia",
+        "date": "2000-05-17",
+        "role": "Difensore",
+        "photo": "",
+        "id": "747",
+        "birthplace": "Rho"
+    },
+    {
+        "name": "Bellini Giuseppe",
+        "country": "Italia",
+        "date": "1957-06-18",
+        "role": "Centrocampista",
+        "photo": "1191413305_bellini.jpg",
+        "id": "236",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Bellucci Francesco",
+        "country": "Italia",
+        "date": "1973-02-23",
+        "role": "Difensore-Centrale",
+        "photo": "1192040985_bellucci.jpg",
+        "id": "142",
+        "birthplace": "Osimo (AN)"
+    },
+    {
+        "name": "Belluomini Massimo",
+        "country": "Italia",
+        "date": "1977-07-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "168",
+        "birthplace": "Pietrasanta (LU)"
+    },
+    {
+        "name": "Belotti Andrea",
+        "country": "Italia",
+        "date": "1993-12-20",
+        "role": "Attaccante",
+        "photo": "1774045396_Andrea-Belotti-1-e1756895128223.jpg",
+        "id": "794",
+        "birthplace": "Calcinate"
+    },
+    {
+        "name": "Benassi Andrea",
+        "country": "Italia",
+        "date": "1975-07-21",
+        "role": "Difensore",
+        "photo": "",
+        "id": "148",
+        "birthplace": ""
+    },
+    {
+        "name": "Benedetti Simone",
+        "country": "Italia",
+        "date": "1992-04-03",
+        "role": "Difensore",
+        "photo": "",
+        "id": "635",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Bercarich Erminio",
+        "country": "Italia",
+        "date": "1923-11-08",
+        "role": "Attaccante",
+        "photo": "1241974412_bercarich.jpg",
+        "id": "513",
+        "birthplace": "Fiume"
+    },
+    {
+        "name": "Bergamaschi Roberto",
+        "country": "Italia",
+        "date": "1960-09-07",
+        "role": "Centrocampista",
+        "photo": "1192041162_bergamaschi.jpg",
+        "id": "214",
+        "birthplace": "Cassano d'Adda (MI)"
+    },
+    {
+        "name": "Bernardini Lucio",
+        "country": "Italia",
+        "date": "1960-09-27",
+        "role": "Centrocampista",
+        "photo": "1192041180_bernardini.jpg",
+        "id": "199",
+        "birthplace": "Citta' di Castello (PG)"
+    },
+    {
+        "name": "Bernasconi ",
+        "country": "Italia",
+        "date": "1937-06-20",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "477",
+        "birthplace": "Ventimiglia (IM)"
+    },
+    {
+        "name": "Berretta Daniele",
+        "country": "Italia",
+        "date": "1972-03-08",
+        "role": "Centrocampista",
+        "photo": "1192052449_berretta.jpg",
+        "id": "97",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Bersia Piero",
+        "country": "Italia",
+        "date": "1929-05-10",
+        "role": "Attaccante",
+        "photo": "1229179913_Bersia.jpg",
+        "id": "480",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Bertola Sergio",
+        "country": "Italia",
+        "date": "1937-06-26",
+        "role": "Portiere",
+        "photo": "1191363151_bertola.jpg",
+        "id": "380",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Bertoli Luigi",
+        "country": "Italia",
+        "date": "1928-07-30",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "466",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "Bettarini Stefano",
+        "country": "Italia",
+        "date": "1972-02-06",
+        "role": "Difensore-Terzino",
+        "photo": "1192052897_bettarini.jpg",
+        "id": "121",
+        "birthplace": "Forl\u00ec"
+    },
+    {
+        "name": "Bevo Vincenzo",
+        "country": "Italia",
+        "date": "1975-01-09",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "175",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Bianchi Ottavio",
+        "country": "Italia",
+        "date": "1943-10-06",
+        "role": "Centrocampista",
+        "photo": "1191413330_bianchi_o.jpg",
+        "id": "328",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Bianchi Rolando",
+        "country": "Italia",
+        "date": "1983-02-15",
+        "role": "Attaccante",
+        "photo": "1192057901_bianchi.jpg",
+        "id": "20",
+        "birthplace": "ALBANO SAN ALESSANDRO"
+    },
+    {
+        "name": "Bianco Paolo",
+        "country": "Italia",
+        "date": "1977-08-20",
+        "role": "Difensore-Centrale",
+        "photo": "1192059081_bianco.jpg",
+        "id": "389",
+        "birthplace": "Foggia"
+    },
+    {
+        "name": "Bianconi Stefano",
+        "country": "Italia",
+        "date": "1968-12-31",
+        "role": "Difensore-Centrale",
+        "photo": "1192055701_bianconi.jpg",
+        "id": "93",
+        "birthplace": "San Miniato (PI)"
+    },
+    {
+        "name": "Biancu Roberto",
+        "country": "Italia",
+        "date": "2000-01-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "688",
+        "birthplace": "Sassari"
+    },
+    {
+        "name": "Biasi Dario",
+        "country": "Italia",
+        "date": "1979-08-24",
+        "role": "Difensore",
+        "photo": "1288692687_biasi.jpg",
+        "id": "568",
+        "birthplace": "Isola della Scala"
+    },
+    {
+        "name": "Bicicli Mauro",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "481",
+        "birthplace": ""
+    },
+    {
+        "name": "Biondi Guido",
+        "country": "Italia",
+        "date": "1952-07-18",
+        "role": "Centrocampista",
+        "photo": "1192107399_biondi.jpg",
+        "id": "259",
+        "birthplace": "Lanciano (CH)"
+    },
+    {
+        "name": "Biondini Davide",
+        "country": "Italia",
+        "date": "1983-01-24",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192059123_biondini.jpg",
+        "id": "390",
+        "birthplace": "Longiano (FC)"
+    },
+    {
+        "name": "Birsa Valter",
+        "country": "Slovenia",
+        "date": "1987-08-07",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "704",
+        "birthplace": "San Pietro-Vertoiba"
+    },
+    {
+        "name": "Bisoli Pierpaolo",
+        "country": "Italia",
+        "date": "1966-11-20",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192051616_bisoli.jpg",
+        "id": "124",
+        "birthplace": "Porretta Terme (BO)"
+    },
+    {
+        "name": "Bitetti Antonio",
+        "country": "Italia",
+        "date": "1974-09-17",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "140",
+        "birthplace": "Ginosa (TA)"
+    },
+    {
+        "name": "Bittante Luca",
+        "country": "Italia",
+        "date": "1993-08-14",
+        "role": "Difensore-Terzino",
+        "photo": "1484813903_BITTANTE_CAGLIARI.jpg",
+        "id": "680",
+        "birthplace": "Pove del Grappa"
+    },
+    {
+        "name": "Bizera Joe",
+        "country": "Uruguay",
+        "date": "1980-05-17",
+        "role": "Difensore-Centrale",
+        "photo": "1192058642_bizera.jpg",
+        "id": "87",
+        "birthplace": "Artigas"
+    },
+    {
+        "name": "Bogazzi Cesare",
+        "country": "Italia",
+        "date": "1931-01-31",
+        "role": "Portiere",
+        "photo": "",
+        "id": "416",
+        "birthplace": "Carrara"
+    },
+    {
+        "name": "Bogoni Antonio",
+        "country": "Italia",
+        "date": "1957-01-10",
+        "role": "Difensore",
+        "photo": "1192060001_bogoni.jpg",
+        "id": "267",
+        "birthplace": "Monteforte d'Alpone (VR)"
+    },
+    {
+        "name": "Bolognesi Giorgio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "515",
+        "birthplace": ""
+    },
+    {
+        "name": "Boninsegna Roberto",
+        "country": "Italia",
+        "date": "1943-11-13",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1191363173_boninsegna.jpg",
+        "id": "358",
+        "birthplace": "Mantova"
+    },
+    {
+        "name": "Bonomi Mauro",
+        "country": "Italia",
+        "date": "1972-08-23",
+        "role": "Difensore",
+        "photo": "1192052676_bonomi.jpg",
+        "id": "136",
+        "birthplace": "Cremona"
+    },
+    {
+        "name": "Borrelli Gennaro",
+        "country": "Italia",
+        "date": "2000-03-10",
+        "role": "Attaccante",
+        "photo": "1773933405_borrelli.jpeg",
+        "id": "795",
+        "birthplace": "Campobasso"
+    },
+    {
+        "name": "Borriello Marco",
+        "country": "Italia",
+        "date": "1982-06-18",
+        "role": "Attaccante",
+        "photo": "1470986926_borriello.jpg",
+        "id": "678",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Bortoletto Raoul",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "472",
+        "birthplace": ""
+    },
+    {
+        "name": "Bradaric Filip",
+        "country": "Croazia",
+        "date": "1992-01-11",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "701",
+        "birthplace": "Split (CRO)"
+    },
+    {
+        "name": "Brambilla Massimo",
+        "country": "Italia",
+        "date": "1973-03-04",
+        "role": "Centrocampista",
+        "photo": "1192057920_brambilla.jpg",
+        "id": "17",
+        "birthplace": "VIMERCATE (MI)"
+    },
+    {
+        "name": "Branca Marco",
+        "country": "Italia",
+        "date": "1965-01-06",
+        "role": "Attaccante",
+        "photo": "1192096437_branca.jpg",
+        "id": "237",
+        "birthplace": "Grosseto"
+    },
+    {
+        "name": "Brando Lorenzo",
+        "country": "Italia",
+        "date": "1943-05-07",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191363189_brando.jpg",
+        "id": "365",
+        "birthplace": "Candelo (VC)"
+    },
+    {
+        "name": "Bravi Enzo",
+        "country": "Italia",
+        "date": "1964-03-30",
+        "role": "Portiere",
+        "photo": "1191413371_bravi.jpg",
+        "id": "293",
+        "birthplace": "Castelnuovo Garfagnana (LU)"
+    },
+    {
+        "name": "Bresciani Giorgio",
+        "country": "Italia",
+        "date": "1969-04-23",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "173",
+        "birthplace": "Lucca"
+    },
+    {
+        "name": "Bressan Mauro",
+        "country": "Italia",
+        "date": "1971-01-05",
+        "role": "Centrocampista",
+        "photo": "1192052706_bressan.jpg",
+        "id": "125",
+        "birthplace": "Valdobbiadene (TV)"
+    },
+    {
+        "name": "Briaschi Massimo",
+        "country": "Italia",
+        "date": "1958-05-12",
+        "role": "Attaccante",
+        "photo": "1191413394_briaschi.jpg",
+        "id": "299",
+        "birthplace": "Lugo Vicentino (VI)"
+    },
+    {
+        "name": "Brkic Zeljko",
+        "country": "Serbia",
+        "date": "1986-07-09",
+        "role": "Portiere",
+        "photo": "",
+        "id": "651",
+        "birthplace": "Novi Sad (SRB)"
+    },
+    {
+        "name": "Brkljaca Mario",
+        "country": "Croazia",
+        "date": "1985-02-04",
+        "role": "Centrocampista",
+        "photo": "1249680674_BRKLJACA.jpg",
+        "id": "544",
+        "birthplace": "Zagabria (Cro)"
+    },
+    {
+        "name": "Brocchi Otello",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "512",
+        "birthplace": ""
+    },
+    {
+        "name": "Brugnera Mario",
+        "country": "Italia",
+        "date": "1946-02-26",
+        "role": "Difensore",
+        "photo": "1602959904_brugnera.jpg",
+        "id": "282",
+        "birthplace": "Venezia"
+    },
+    {
+        "name": "Brunner Alex",
+        "country": "Italia",
+        "date": "1973-12-08",
+        "role": "Portiere",
+        "photo": "1192058300_brunner.jpg",
+        "id": "23",
+        "birthplace": "TRIESTE"
+    },
+    {
+        "name": "Bruzzone Tiziano",
+        "country": "Italia",
+        "date": "1984-08-19",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1192059223_bruzzone.jpg",
+        "id": "394",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Bucchi Christian",
+        "country": "Italia",
+        "date": "1977-05-30",
+        "role": "Attaccante",
+        "photo": "1192057614_bucchi.jpg",
+        "id": "39",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Budel Alessandro",
+        "country": "Italia",
+        "date": "1981-02-25",
+        "role": "Centrocampista",
+        "photo": "1192058343_budel.jpg",
+        "id": "14",
+        "birthplace": "BASIGLIO (MI)"
+    },
+    {
+        "name": "Budruni Emilio",
+        "country": "Italia",
+        "date": "1969-11-01",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "179",
+        "birthplace": "Albano Laziale (ROMA)"
+    },
+    {
+        "name": "Burrai Salvatore",
+        "country": "Italia",
+        "date": "1987-05-26",
+        "role": "Centrocampista",
+        "photo": "1192046121_burrai.jpg",
+        "id": "395",
+        "birthplace": "Sassari (SS)"
+    },
+    {
+        "name": "Busanca Gianni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "542",
+        "birthplace": ""
+    },
+    {
+        "name": "Busetto Emilio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "431",
+        "birthplace": ""
+    },
+    {
+        "name": "Busetto Mondo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "557",
+        "birthplace": ""
+    },
+    {
+        "name": "Busetto Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "541",
+        "birthplace": ""
+    },
+    {
+        "name": "Buso Renato",
+        "country": "Italia",
+        "date": "1969-12-19",
+        "role": "Centrocampista",
+        "photo": "1192046152_buso.jpg",
+        "id": "72",
+        "birthplace": "Treviso"
+    },
+    {
+        "name": "Buso Sergio",
+        "country": "Italia",
+        "date": "1950-04-03",
+        "role": "Portiere",
+        "photo": "",
+        "id": "320",
+        "birthplace": "Padova"
+    },
+    {
+        "name": "Butti Cesare",
+        "country": "Italia",
+        "date": "1951-05-05",
+        "role": "Centrocampista",
+        "photo": "1191413462_butti.jpg",
+        "id": "324",
+        "birthplace": "Ghiffa (NO)"
+    },
+    {
+        "name": "Cabella Giuseppe",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "606",
+        "birthplace": ""
+    },
+    {
+        "name": "Cabras Marco",
+        "country": "Italia",
+        "date": "1971-06-13",
+        "role": "Attaccante",
+        "photo": "1192046561_cabras.jpg",
+        "id": "192",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cabrera Acevedo Mat\u00c3\u00acas Julio",
+        "country": "Uruguay",
+        "date": "1986-08-24",
+        "role": "Centrocampista",
+        "photo": "1378030900_cabrera.jpg",
+        "id": "622",
+        "birthplace": "Montevideo"
+    },
+    {
+        "name": "Cacciatore Fabrizio",
+        "country": "Italia",
+        "date": "1986-10-08",
+        "role": "Difensore",
+        "photo": "",
+        "id": "707",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Caddeo Mario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "610",
+        "birthplace": ""
+    },
+    {
+        "name": "Cade' Giancarlo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "484",
+        "birthplace": ""
+    },
+    {
+        "name": "Cade' Giuseppe",
+        "country": "Italia",
+        "date": "1934-10-09",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "500",
+        "birthplace": "Zanica"
+    },
+    {
+        "name": "Calabresi Arturo",
+        "country": "Italia",
+        "date": "1996-03-17",
+        "role": "Difensore",
+        "photo": "",
+        "id": "740",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Caligara Fabrizio",
+        "country": "Italia",
+        "date": "2000-04-12",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "698",
+        "birthplace": "Borgomanero"
+    },
+    {
+        "name": "Caligara Fabrizio",
+        "country": "Italia",
+        "date": "2000-04-12",
+        "role": "Centrocampista-Centrale",
+        "photo": "1602575572_caligara.jpeg",
+        "id": "732",
+        "birthplace": "Borgomanero"
+    },
+    {
+        "name": "Camilleri Vincenzo",
+        "country": "Italia",
+        "date": "1992-03-06",
+        "role": "Difensore",
+        "photo": "1356038435_camilleri.jpg",
+        "id": "619",
+        "birthplace": "Gela"
+    },
+    {
+        "name": "Cammarata Fabrizio",
+        "country": "Italia",
+        "date": "1975-08-30",
+        "role": "Attaccante",
+        "photo": "1192056667_cammarata.jpg",
+        "id": "36",
+        "birthplace": "Caltanissetta"
+    },
+    {
+        "name": "Campagnolo Andrea",
+        "country": "Italia",
+        "date": "1978-06-17",
+        "role": "Portiere",
+        "photo": "1192058661_campagnolo.jpg",
+        "id": "54",
+        "birthplace": "Bassano Del Grappa (VI)"
+    },
+    {
+        "name": "Candurra Luigi",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "609",
+        "birthplace": ""
+    },
+    {
+        "name": "Canestrari Roberto",
+        "country": "Italia",
+        "date": "1953-04-26",
+        "role": "Difensore",
+        "photo": "1191413491_canestrari.jpg",
+        "id": "291",
+        "birthplace": "Piagge (PS)"
+    },
+    {
+        "name": "Canini Michele",
+        "country": "Italia",
+        "date": "1986-06-05",
+        "role": "Difensore",
+        "photo": "1192058675_canini.jpg",
+        "id": "55",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Caocci Renato",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "426",
+        "birthplace": ""
+    },
+    {
+        "name": "Capacci Maide",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "509",
+        "birthplace": ""
+    },
+    {
+        "name": "Capecchi Luca",
+        "country": "Italia",
+        "date": "1974-08-04",
+        "role": "Portiere",
+        "photo": "",
+        "id": "452",
+        "birthplace": "Imola (BO)"
+    },
+    {
+        "name": "Capello Alessandro",
+        "country": "Italia",
+        "date": "1995-12-12",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "639",
+        "birthplace": "Bologna"
+    },
+    {
+        "name": "Capello Davide",
+        "country": "Italia",
+        "date": "1984-09-27",
+        "role": "Portiere",
+        "photo": "1192095260_capello.jpg",
+        "id": "51",
+        "birthplace": ""
+    },
+    {
+        "name": "Capone Andrea",
+        "country": "Italia",
+        "date": "1981-01-08",
+        "role": "Attaccante",
+        "photo": "1192056683_capone.jpg",
+        "id": "34",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cappellaro Renzo",
+        "country": "Italia",
+        "date": "1937-05-12",
+        "role": "Attaccante",
+        "photo": "1191363214_cappellaro.jpg",
+        "id": "385",
+        "birthplace": "Vicenza"
+    },
+    {
+        "name": "Cappioli Massimiliano",
+        "country": "Italia",
+        "date": "1968-01-17",
+        "role": "Centrocampista",
+        "photo": "1192046610_cappioli.jpg",
+        "id": "156",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Capradossi Elio",
+        "country": "Italia",
+        "date": "1996-11-03",
+        "role": "Difensore",
+        "photo": "",
+        "id": "762",
+        "birthplace": "Kampala (Uganda)"
+    },
+    {
+        "name": "Caprile Elia",
+        "country": "Italia",
+        "date": "2001-08-25",
+        "role": "Portiere",
+        "photo": "1773928613_caprile.jpeg",
+        "id": "790",
+        "birthplace": "Verona"
+    },
+    {
+        "name": "Capuano Marco",
+        "country": "Italia",
+        "date": "1991-10-14",
+        "role": "Difensore-Terzino",
+        "photo": "1515775011_capuano-marco.jpg",
+        "id": "644",
+        "birthplace": "Pescara"
+    },
+    {
+        "name": "Capuzzo Luigi",
+        "country": "Italia",
+        "date": "1958-04-01",
+        "role": "Attaccante",
+        "photo": "1191413541_capuzzo.jpg",
+        "id": "309",
+        "birthplace": "Anguillara (PD)"
+    },
+    {
+        "name": "Carboni Andrea",
+        "country": "Italia",
+        "date": "2001-02-04",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "722",
+        "birthplace": "Sorgono"
+    },
+    {
+        "name": "Carboni Franco",
+        "country": "Argentina",
+        "date": "2003-04-04",
+        "role": "Difensore",
+        "photo": "",
+        "id": "756",
+        "birthplace": "Buenos Aires"
+    },
+    {
+        "name": "Cardoso Thiago Ribeiro",
+        "country": "Brasile",
+        "date": "1986-02-24",
+        "role": "Attaccante",
+        "photo": "1356038495_tiyago_ribeyro.jpg",
+        "id": "582",
+        "birthplace": "Pontes Gestal"
+    },
+    {
+        "name": "Carini Fabian Hector",
+        "country": "Uruguay",
+        "date": "1979-12-26",
+        "role": "Portiere",
+        "photo": "1192058749_carini.jpg",
+        "id": "149",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Carlet Alan",
+        "country": "Italia",
+        "date": "1977-01-12",
+        "role": "Attaccante",
+        "photo": "1192058911_carlet.jpg",
+        "id": "129",
+        "birthplace": "Grosseto"
+    },
+    {
+        "name": "Carlos Omoruyi Benjamin  Kevin",
+        "country": "Spagna",
+        "date": "2001-04-10",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "819",
+        "birthplace": "Ceuta"
+    },
+    {
+        "name": "Carnevale Andrea",
+        "country": "Italia",
+        "date": "1961-01-12",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "254",
+        "birthplace": "Monte San Biagio (LT)"
+    },
+    {
+        "name": "Carruezzo Eupremio",
+        "country": "Italia",
+        "date": "1969-12-09",
+        "role": "Attaccante",
+        "photo": "1192046681_carruezzo.jpg",
+        "id": "105",
+        "birthplace": "Brindisi"
+    },
+    {
+        "name": "Carrus Davide",
+        "country": "Italia",
+        "date": "1979-03-19",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192053366_carrus.jpg",
+        "id": "40",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Carta Ignazio",
+        "country": "Italia",
+        "date": "1991-05-18",
+        "role": "Difensore-Terzino",
+        "photo": "",
+        "id": "504",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Casagrande Francesco",
+        "country": "Italia",
+        "date": "1953-07-02",
+        "role": "Centrocampista",
+        "photo": "1191413523_casagrande.jpg",
+        "id": "297",
+        "birthplace": "Mareno di Piave (TV)"
+    },
+    {
+        "name": "Casale Pasquale",
+        "country": "Italia",
+        "date": "1959-03-02",
+        "role": "Centrocampista",
+        "photo": "1192046838_casale.jpg",
+        "id": "227",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Casamuccin ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "469",
+        "birthplace": ""
+    },
+    {
+        "name": "Casarini Federico",
+        "country": "Italia",
+        "date": "1989-09-07",
+        "role": "Centrocampista-Laterale",
+        "photo": "1356038679_casarini.jpg",
+        "id": "620",
+        "birthplace": "Carpi"
+    },
+    {
+        "name": "Castan Leandro",
+        "country": "Brasile",
+        "date": "1986-11-05",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "695",
+        "birthplace": "Jau"
+    },
+    {
+        "name": "Castelli Paolo",
+        "country": "Italia",
+        "date": "1980-01-03",
+        "role": "Portiere",
+        "photo": "",
+        "id": "78",
+        "birthplace": "Cittiglio (VA)"
+    },
+    {
+        "name": "Castro Lucas Nahuel",
+        "country": "Argentina",
+        "date": "1989-04-09",
+        "role": "Centrocampista",
+        "photo": "1533637072_castro.jpg",
+        "id": "702",
+        "birthplace": "La Plata (ARG)"
+    },
+    {
+        "name": "Cavallo Luca",
+        "country": "Italia",
+        "date": "1973-05-19",
+        "role": "Centrocampista",
+        "photo": "1192056706_cavallo.jpg",
+        "id": "67",
+        "birthplace": "Rossiglione (GE)"
+    },
+    {
+        "name": "Cavazzuti Armando",
+        "country": "Italia",
+        "date": "1929-01-28",
+        "role": "Centrocampista",
+        "photo": "1229179652_Cavazzuti.jpg",
+        "id": "479",
+        "birthplace": "Modena"
+    },
+    {
+        "name": "Cavezzi Gianni",
+        "country": "Italia",
+        "date": "1969-08-07",
+        "role": "Centrocampista",
+        "photo": "1192053404_cavezzi.jpg",
+        "id": "85",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Cavuoti Nicol\u00f2",
+        "country": "Italia",
+        "date": "2003-04-04",
+        "role": "Centrocampista",
+        "photo": "1774370544_cavuoti.jpeg",
+        "id": "796",
+        "birthplace": "Vasto"
+    },
+    {
+        "name": "C\u00c3\u00a1ceres Mart\u00c3\u00adn",
+        "country": "Uruguay",
+        "date": "1987-04-07",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "748",
+        "birthplace": "Montevideo"
+    },
+    {
+        "name": "Centurioni Matteo",
+        "country": "Italia",
+        "date": "1974-05-08",
+        "role": "Difensore-Centrale",
+        "photo": "1192047041_centurioni.jpg",
+        "id": "99",
+        "birthplace": "Mestre (VE)"
+    },
+    {
+        "name": "Ceppelini Pablo",
+        "country": "Uruguay",
+        "date": "1991-11-09",
+        "role": "Centrocampista",
+        "photo": "1356127187_ceppelini.jpg",
+        "id": "573",
+        "birthplace": "Montevideo"
+    },
+    {
+        "name": "Ceppitelli Luca",
+        "country": "Italia",
+        "date": "1989-08-11",
+        "role": "Difensore",
+        "photo": "1433253737_ceppitelli.jpg",
+        "id": "648",
+        "birthplace": "Castiglione del Lago"
+    },
+    {
+        "name": "Cera Pier Luigi",
+        "country": "Italia",
+        "date": "1941-02-25",
+        "role": "Centrocampista",
+        "photo": "1191413563_cera.jpg",
+        "id": "340",
+        "birthplace": "Legnano (VR)"
+    },
+    {
+        "name": "Cernuschi Carlo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "510",
+        "birthplace": ""
+    },
+    {
+        "name": "Cerri Alberto",
+        "country": "Italia",
+        "date": "1996-04-16",
+        "role": "Attaccante",
+        "photo": "1603137477_cerri.jpg",
+        "id": "668",
+        "birthplace": "Parma"
+    },
+    {
+        "name": "Ceter Valencia Damir",
+        "country": "Colombia",
+        "date": "1997-11-01",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "696",
+        "birthplace": "Buenaventura (COL)"
+    },
+    {
+        "name": "Chimenti Antonio",
+        "country": "Italia",
+        "date": "1970-06-30",
+        "role": "Portiere",
+        "photo": "1192058765_chimenti.jpg",
+        "id": "347",
+        "birthplace": "Bari"
+    },
+    {
+        "name": "Chinellato Giacomo",
+        "country": "Italia",
+        "date": "1955-06-29",
+        "role": "Difensore",
+        "photo": "1192047006_chinellato.jpg",
+        "id": "233",
+        "birthplace": "Favaro Veneto"
+    },
+    {
+        "name": "Chiti Flavio",
+        "country": "Italia",
+        "date": "1970-02-12",
+        "role": "Difensore",
+        "photo": "",
+        "id": "182",
+        "birthplace": "Villafranca di Verona (VR)"
+    },
+    {
+        "name": "Ciampoli Francesco",
+        "country": "Italia",
+        "date": "1951-03-08",
+        "role": "Difensore",
+        "photo": "1191413589_ciampoli.jpg",
+        "id": "295",
+        "birthplace": "Ortona (CH)"
+    },
+    {
+        "name": "Ciccarelli Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "471",
+        "birthplace": ""
+    },
+    {
+        "name": "Ciervo Riccardo",
+        "country": "Italia",
+        "date": "2002-04-01",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "820",
+        "birthplace": "Latina"
+    },
+    {
+        "name": "Cigarini Luca",
+        "country": "Italia",
+        "date": "1986-06-20",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "690",
+        "birthplace": "Montecchio"
+    },
+    {
+        "name": "Cinelli Antonio",
+        "country": "Italia",
+        "date": "1989-08-12",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "671",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Ciocca Raffaello",
+        "country": "Italia",
+        "date": "1945-04-26",
+        "role": "Attaccante",
+        "photo": "1588863373_033.JPG",
+        "id": "372",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Ciocci Giuseppe",
+        "country": "Italia",
+        "date": "2002-01-24",
+        "role": "Portiere",
+        "photo": "",
+        "id": "793",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Circati Gianfranco",
+        "country": "Italia",
+        "date": "1971-02-02",
+        "role": "Difensore",
+        "photo": "1192099574_circati.jpg",
+        "id": "61",
+        "birthplace": "Fidenza (PR)"
+    },
+    {
+        "name": "Cocco Andrea",
+        "country": "Italia",
+        "date": "1986-04-08",
+        "role": "Attaccante",
+        "photo": "1192058779_cocco.jpg",
+        "id": "56",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cocco Enrico",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "555",
+        "birthplace": ""
+    },
+    {
+        "name": "Colasante Alessandro",
+        "country": "Italia",
+        "date": "1973-08-02",
+        "role": "Difensore",
+        "photo": "1192057627_colasante.jpg",
+        "id": "41",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Colitti Christian",
+        "country": "Italia",
+        "date": "1975-05-27",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "170",
+        "birthplace": "Bad Kreuznach (Germania)"
+    },
+    {
+        "name": "Colomban Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "442",
+        "birthplace": ""
+    },
+    {
+        "name": "Colombatto Santiago",
+        "country": "Argentina",
+        "date": "1997-01-18",
+        "role": "Centrocampista",
+        "photo": "1472711128_colombatto.jpg",
+        "id": "670",
+        "birthplace": "Cacha-Cordova"
+    },
+    {
+        "name": "Colombi Simone",
+        "country": "Italia",
+        "date": "1991-07-01",
+        "role": "Portiere",
+        "photo": "",
+        "id": "634",
+        "birthplace": "Seriate (BG)"
+    },
+    {
+        "name": "Colombo Angelo Martino",
+        "country": "Italia",
+        "date": "1935-05-16",
+        "role": "Portiere",
+        "photo": "1191363241_colombo.jpg",
+        "id": "387",
+        "birthplace": "Gattinara (Vercelli)"
+    },
+    {
+        "name": "Colombo Roberto",
+        "country": "Italia",
+        "date": "1975-08-24",
+        "role": "Portiere",
+        "photo": "",
+        "id": "666",
+        "birthplace": "Monza"
+    },
+    {
+        "name": "Colucci Leonardo",
+        "country": "Italia",
+        "date": "1972-12-29",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192059305_colucci.jpg",
+        "id": "391",
+        "birthplace": "Cerignola (FG)"
+    },
+    {
+        "name": "Coman Florinel Teodor",
+        "country": "Romania",
+        "date": "1998-04-10",
+        "role": "Attaccante",
+        "photo": "1773928726_coman.jpeg",
+        "id": "791",
+        "birthplace": "Braila (Romania)"
+    },
+    {
+        "name": "Conca ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "595",
+        "birthplace": ""
+    },
+    {
+        "name": "Conca Angelo",
+        "country": "Italia",
+        "date": "1959-03-09",
+        "role": "Centrocampista",
+        "photo": "1192047292_conca.jpg",
+        "id": "241",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Congiu Antonello",
+        "country": "Italia",
+        "date": "1969-07-24",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "219",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Congiu Antonio",
+        "country": "Italia",
+        "date": "1936-02-08",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191363320_congiu_a.jpg",
+        "id": "388",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Congiu Gianluca",
+        "country": "Italia",
+        "date": "1967-02-20",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "215",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Conti Daniele",
+        "country": "Italia",
+        "date": "1979-01-09",
+        "role": "Centrocampista",
+        "photo": "3725_conti.jpg",
+        "id": "24",
+        "birthplace": "Nettuno (RM)"
+    },
+    {
+        "name": "Conticchio Alessandro",
+        "country": "Italia",
+        "date": "1974-01-19",
+        "role": "Centrocampista",
+        "photo": "1192058800_conticchio.jpg",
+        "id": "71",
+        "birthplace": "Celleno (VT)"
+    },
+    {
+        "name": "Cop Duje",
+        "country": "Croazia",
+        "date": "1990-02-01",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "652",
+        "birthplace": "Vinkovci"
+    },
+    {
+        "name": "Copparoni Renato",
+        "country": "Italia",
+        "date": "1952-10-27",
+        "role": "Portiere",
+        "photo": "1191413615_copparoni.jpg",
+        "id": "305",
+        "birthplace": "San Gavino Monreale"
+    },
+    {
+        "name": "Coppola Guglielmo",
+        "country": "Italia",
+        "date": "1962-05-18",
+        "role": "Attaccante",
+        "photo": "1192047353_coppola_g.jpg",
+        "id": "208",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Coppola Maurizio",
+        "country": "Italia",
+        "date": "1965-05-24",
+        "role": "Centrocampista",
+        "photo": "1250879042_coppola.jpg",
+        "id": "188",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Corellas Pierluigi",
+        "country": "Italia",
+        "date": "1972-06-16",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "178",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cornacchia Carlo",
+        "country": "Italia",
+        "date": "1965-05-04",
+        "role": "Difensore",
+        "photo": "1192047414_cornacchia.jpg",
+        "id": "191",
+        "birthplace": "Altamura (BA)"
+    },
+    {
+        "name": "Corradi Bernardo",
+        "country": "Italia",
+        "date": "1976-03-30",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1192047438_corradi.jpg",
+        "id": "91",
+        "birthplace": "Siena"
+    },
+    {
+        "name": "Corsi Daniele",
+        "country": "Italia",
+        "date": "1978-02-21",
+        "role": "Portiere",
+        "photo": "1192053906_corsi.jpg",
+        "id": "96",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Corti Roberto",
+        "country": "Italia",
+        "date": "1952-10-28",
+        "role": "Portiere",
+        "photo": "1191413699_corti.jpg",
+        "id": "279",
+        "birthplace": "Treviglio (BG)"
+    },
+    {
+        "name": "Cossu Andrea",
+        "country": "Italia",
+        "date": "1980-05-03",
+        "role": "Attaccante",
+        "photo": "1192058814_cossu.jpg",
+        "id": "57",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cotza Enrico",
+        "country": "Italia",
+        "date": "1988-07-03",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "449",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Cozza Francesco",
+        "country": "Italia",
+        "date": "1974-01-19",
+        "role": "Centrocampista",
+        "photo": "1192047666_cozza.jpg",
+        "id": "127",
+        "birthplace": "Cariati (CS)"
+    },
+    {
+        "name": "Cragno Alessio",
+        "country": "Italia",
+        "date": "1994-06-28",
+        "role": "Portiere",
+        "photo": "1602961261_cragno.jpg",
+        "id": "642",
+        "birthplace": "Fiesole (FI)"
+    },
+    {
+        "name": "Criniti Antonio",
+        "country": "Italia",
+        "date": "1970-10-29",
+        "role": "Attaccante",
+        "photo": "1192047747_criniti.jpg",
+        "id": "154",
+        "birthplace": "Pinerolo(TO)"
+    },
+    {
+        "name": "Crisetig Lorenzo",
+        "country": "Italia",
+        "date": "1993-01-20",
+        "role": "Centrocampista",
+        "photo": "1433254103_crisetig.jpeg",
+        "id": "638",
+        "birthplace": "Cividale del Friuli (UD)"
+    },
+    {
+        "name": "Cristiani Alessandro",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "304",
+        "birthplace": ""
+    },
+    {
+        "name": "Crosta Luca",
+        "country": "Italia",
+        "date": "1998-02-23",
+        "role": "Portiere",
+        "photo": "",
+        "id": "689",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Crovi Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "427",
+        "birthplace": ""
+    },
+    {
+        "name": "Crusco Antonio",
+        "country": "Italia",
+        "date": "1958-02-28",
+        "role": "Centrocampista",
+        "photo": "1192047770_crusco.jpg",
+        "id": "242",
+        "birthplace": "Sapri (Salerno)"
+    },
+    {
+        "name": "Cucchetti Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "553",
+        "birthplace": ""
+    },
+    {
+        "name": "Cudini Mirko",
+        "country": "Italia",
+        "date": "1973-09-01",
+        "role": "Difensore",
+        "photo": "1192057669_cudini.jpg",
+        "id": "42",
+        "birthplace": "Sant'Elpidio a Mare, AP"
+    },
+    {
+        "name": "D'Agostino Antonio",
+        "country": "Italia",
+        "date": "1978-10-08",
+        "role": "Centrocampista",
+        "photo": "1192059386_d_agostino.jpg",
+        "id": "377",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "D'Alessandro Siro",
+        "country": "Italia",
+        "date": "1953-03-09",
+        "role": "Centrocampista",
+        "photo": "1192047821_d_alessandro.jpg",
+        "id": "246",
+        "birthplace": "Campobasso"
+    },
+    {
+        "name": "Da Silva Caio Rangel",
+        "country": "Brasile",
+        "date": "1996-01-16",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "641",
+        "birthplace": "Rio De Janeiro (Brasile)"
+    },
+    {
+        "name": "Dalbert Henrique",
+        "country": "Brasile",
+        "date": "1993-09-08",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "743",
+        "birthplace": "Barra Mansa"
+    },
+    {
+        "name": "Dametto Paolo",
+        "country": "Italia",
+        "date": "1993-07-23",
+        "role": "Difensore",
+        "photo": "",
+        "id": "580",
+        "birthplace": "Arborea (OR)"
+    },
+    {
+        "name": "Dario Silva Debray Pereira",
+        "country": "Uruguay",
+        "date": "1972-11-02",
+        "role": "Attaccante",
+        "photo": "1192052725_dario_silva.jpg",
+        "id": "115",
+        "birthplace": "Treinta y Tres (Uruguay)"
+    },
+    {
+        "name": "Dasara Marco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "298",
+        "birthplace": ""
+    },
+    {
+        "name": "Davin Daniele",
+        "country": "Italia",
+        "date": "1962-07-07",
+        "role": "Difensore",
+        "photo": "1192049888_davin.jpg",
+        "id": "200",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "De   Amicis Giuseppe",
+        "country": "Italia",
+        "date": "1967-04-22",
+        "role": "Difensore",
+        "photo": "1250879005_de amicis.jpg",
+        "id": "201",
+        "birthplace": "Teramo"
+    },
+    {
+        "name": "de Andrade Bittencourt Rafael",
+        "country": "Brasile",
+        "date": "1982-03-03",
+        "role": "Portiere",
+        "photo": "",
+        "id": "672",
+        "birthplace": "San Paolo (BRA)"
+    },
+    {
+        "name": "De Angelis Stefano",
+        "country": "Italia",
+        "date": "1974-05-23",
+        "role": "Difensore-Terzino",
+        "photo": "1192094755_de_angelis.jpg",
+        "id": "62",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "De Martis Angelo Giacomo",
+        "country": "Italia",
+        "date": "1984-05-27",
+        "role": "Centrocampista",
+        "photo": "1192108649_de_martis.jpg",
+        "id": "82",
+        "birthplace": "Sassari (SS)"
+    },
+    {
+        "name": "De Moliner Paolo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "554",
+        "birthplace": ""
+    },
+    {
+        "name": "De Napoli Fernando",
+        "country": "Italia",
+        "date": "1964-03-15",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "139",
+        "birthplace": "Chiusano (AV)"
+    },
+    {
+        "name": "De Paola Luciano",
+        "country": "Italia",
+        "date": "1961-05-30",
+        "role": "Centrocampista",
+        "photo": "1192051000_de_paola.jpg",
+        "id": "187",
+        "birthplace": "Crotone"
+    },
+    {
+        "name": "De Patre Tiziano",
+        "country": "Italia",
+        "date": "1968-12-18",
+        "role": "Centrocampista",
+        "photo": "1192053422_de_patre.jpg",
+        "id": "80",
+        "birthplace": "Notaresco (TE)"
+    },
+    {
+        "name": "De Petri Roberto",
+        "country": "Italia",
+        "date": "1947-02-17",
+        "role": "Difensore-Terzino",
+        "photo": "1191413808_de_petri.jpg",
+        "id": "349",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "De Prati Mario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "548",
+        "birthplace": ""
+    },
+    {
+        "name": "De Rosa Giovanni",
+        "country": "Italia",
+        "date": "1956-09-19",
+        "role": "Attaccante",
+        "photo": "1192049270_de_rosa.jpg",
+        "id": "238",
+        "birthplace": "Cerignola (FG)"
+    },
+    {
+        "name": "De Simone Marco",
+        "country": "Italia",
+        "date": "1963-01-09",
+        "role": "Difensore",
+        "photo": "1192047952_de_simone.jpg",
+        "id": "240",
+        "birthplace": "Frattamaggiore (NA)"
+    },
+    {
+        "name": "De Toni Gabriele",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "448",
+        "birthplace": ""
+    },
+    {
+        "name": "Deiola Alessandro",
+        "country": "Italia",
+        "date": "1995-08-01",
+        "role": "Centrocampista",
+        "photo": "1472711418_deiola.jpg",
+        "id": "660",
+        "birthplace": "San Gavino"
+    },
+    {
+        "name": "Del Fabro Dario",
+        "country": "Italia",
+        "date": "1995-03-24",
+        "role": "Difensore-Centrale",
+        "photo": "1356126765_delfabro.jpeg",
+        "id": "621",
+        "birthplace": "Alghero"
+    },
+    {
+        "name": "Del Grosso Cristiano",
+        "country": "Italia",
+        "date": "1983-03-24",
+        "role": "Difensore-Terzino",
+        "photo": "1192060552_del_grosso.jpg",
+        "id": "375",
+        "birthplace": "Giulianova (TE)"
+    },
+    {
+        "name": "Del Grosso Guido",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "433",
+        "birthplace": ""
+    },
+    {
+        "name": "Del Nevo Loris",
+        "country": "Italia",
+        "date": "1975-05-31",
+        "role": "Centrocampista",
+        "photo": "1192057943_del_nevo.jpg",
+        "id": "28",
+        "birthplace": "TORINO"
+    },
+    {
+        "name": "Delpupo Isaias",
+        "country": "Argentina",
+        "date": "2003-03-31",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "766",
+        "birthplace": "El Socorro"
+    },
+    {
+        "name": "Dely Valdes Julio Cesar",
+        "country": "Panama",
+        "date": "1967-03-12",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1192052168_dely_valdes.jpg",
+        "id": "144",
+        "birthplace": "Colon"
+    },
+    {
+        "name": "Desogus Jacopo",
+        "country": "Italia",
+        "date": "2002-10-01",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "757",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Despodov Kiril Vasilev",
+        "country": "Bulgaria",
+        "date": "1996-11-11",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "709",
+        "birthplace": "Kresna"
+    },
+    {
+        "name": "Dessena Daniele",
+        "country": "Italia",
+        "date": "1987-05-10",
+        "role": "Centrocampista",
+        "photo": "1356127254_dessena.jpg",
+        "id": "545",
+        "birthplace": "Parma"
+    },
+    {
+        "name": "Dessi Riccardo",
+        "country": "Italia",
+        "date": "1947-03-04",
+        "role": "Difensore",
+        "photo": "1192060905_dessi.jpg",
+        "id": "329",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Di Bitonto Nicola",
+        "country": "Italia",
+        "date": "1966-05-01",
+        "role": "Portiere",
+        "photo": "1192051326_di_bitonto.jpg",
+        "id": "146",
+        "birthplace": "Barletta (BA)"
+    },
+    {
+        "name": "Di Carmine Emidio",
+        "country": "Italia",
+        "date": "1952-03-08",
+        "role": "Attaccante",
+        "photo": "1191413873_di_carmine.jpg",
+        "id": "343",
+        "birthplace": "Amatrice (RI)"
+    },
+    {
+        "name": "Di Chiara Stefano",
+        "country": "Italia",
+        "date": "1956-02-21",
+        "role": "Difensore",
+        "photo": "",
+        "id": "286",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Di Fabio Joao Paulo",
+        "country": "Brasile",
+        "date": "1979-11-24",
+        "role": "Difensore",
+        "photo": "1192057048_di_fabio.jpg",
+        "id": "33",
+        "birthplace": "Sao Carlos (BRA)"
+    },
+    {
+        "name": "Di Gennaro Davide",
+        "country": "Italia",
+        "date": "1988-06-16",
+        "role": "Centrocampista",
+        "photo": "1453189598_digennaro.jpg",
+        "id": "661",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Di Laura Luca",
+        "country": "Italia",
+        "date": "1991-03-25",
+        "role": "Difensore",
+        "photo": "",
+        "id": "532",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Di Lena Paolo",
+        "country": "Italia",
+        "date": "1963-04-11",
+        "role": "Centrocampista",
+        "photo": "1250879072_di lena.jpg",
+        "id": "204",
+        "birthplace": "Toronto (Canada)"
+    },
+    {
+        "name": "Di Pardo Alessandro",
+        "country": "Italia",
+        "date": "1999-07-18",
+        "role": "Centrocampista",
+        "photo": "1773928775_dipardo.jpg",
+        "id": "761",
+        "birthplace": "Rimini"
+    },
+    {
+        "name": "Diakit\u00c3\u00a9 Modibo",
+        "country": "Francia",
+        "date": "1987-03-02",
+        "role": "Difensore",
+        "photo": "",
+        "id": "656",
+        "birthplace": "Bourg-en-Bresse (FRA)"
+    },
+    {
+        "name": "Diliso Nicola",
+        "country": "Italia",
+        "date": "1974-10-10",
+        "role": "Difensore-Terzino",
+        "photo": "1192055807_diliso.jpg",
+        "id": "79",
+        "birthplace": "Bari"
+    },
+    {
+        "name": "Dini Angelo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "518",
+        "birthplace": ""
+    },
+    {
+        "name": "Dionisio Enea",
+        "country": "Italia",
+        "date": "1978-05-24",
+        "role": "Difensore",
+        "photo": "1192094472_dionisio.jpg",
+        "id": "86",
+        "birthplace": "Fondi (LT)"
+    },
+    {
+        "name": "Domenghini Angelo",
+        "country": "Italia",
+        "date": "1941-08-25",
+        "role": "Attaccante",
+        "photo": "1191413969_domenghini.jpg",
+        "id": "342",
+        "birthplace": "Lallio (BG)"
+    },
+    {
+        "name": "Donsah Godfred",
+        "country": "Ghana",
+        "date": "1996-06-07",
+        "role": "Centrocampista",
+        "photo": "1427016226_donsah.jpeg",
+        "id": "643",
+        "birthplace": "Accra, Ghana"
+    },
+    {
+        "name": "Doratiotto Riccardo",
+        "country": "Italia",
+        "date": "1999-06-17",
+        "role": "Difensore-Terzino",
+        "photo": "",
+        "id": "710",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Dore Roberto",
+        "country": "Italia",
+        "date": "1960-03-29",
+        "role": "Portiere",
+        "photo": "1192099926_dore.jpg",
+        "id": "230",
+        "birthplace": "Gonnostramatza (OR)"
+    },
+    {
+        "name": "Dossena Alberto",
+        "country": "Italia",
+        "date": "1998-10-13",
+        "role": "Difensore",
+        "photo": "1774370700_dossena.jpeg",
+        "id": "763",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Duncan Joseph Alfred",
+        "country": "Ghana",
+        "date": "1993-10-03",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "737",
+        "birthplace": "Accra (Ghana)"
+    },
+    {
+        "name": "Ekdal Albin",
+        "country": "Svezia",
+        "date": "1989-07-28",
+        "role": "Centrocampista",
+        "photo": "1356127299_ekdal.jpg",
+        "id": "581",
+        "birthplace": "Stoccolma"
+    },
+    {
+        "name": "El Kabir Moestafa",
+        "country": "Marocco",
+        "date": "1988-05-10",
+        "role": "Attaccante",
+        "photo": "1315806659_khabir.jpg",
+        "id": "574",
+        "birthplace": "Targuist"
+    },
+    {
+        "name": "Eriksson Sebastian",
+        "country": "Svezia",
+        "date": "1989-01-31",
+        "role": "Centrocampista",
+        "photo": "1356127341_sebastyan_eriksson.jpg",
+        "id": "583",
+        "birthplace": "Bralanda (SVE)"
+    },
+    {
+        "name": "Esposito Antonio",
+        "country": "Svizzera",
+        "date": "1972-12-13",
+        "role": "Centrocampista",
+        "photo": "1192100924_esposito_a.jpg",
+        "id": "70",
+        "birthplace": "Viganello, Ticino"
+    },
+    {
+        "name": "Esposito Mauro",
+        "country": "Italia",
+        "date": "1979-06-13",
+        "role": "Attaccante",
+        "photo": "1603024999_mauro-esposito.jpg",
+        "id": "18",
+        "birthplace": "TORRE DEL GRECO (NA)"
+    },
+    {
+        "name": "Esposito Sebastiano",
+        "country": "Italia",
+        "date": "2002-07-02",
+        "role": "Attaccante",
+        "photo": "1773933710_sebastiano-esposito-cagliari.jpg",
+        "id": "797",
+        "birthplace": "Castellamare"
+    },
+    {
+        "name": "Esposito Vincenzo",
+        "country": "Italia",
+        "date": "1971-01-06",
+        "role": "Difensore-Terzino",
+        "photo": "1192100896_esposito_v.jpg",
+        "id": "386",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Fadda Michele",
+        "country": "Italia",
+        "date": "1967-10-21",
+        "role": "Difensore",
+        "photo": "1192050426_fadda.jpg",
+        "id": "198",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Fadera Alieu",
+        "country": "Gambia",
+        "date": "2001-11-03",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "821",
+        "birthplace": "Bakau"
+    },
+    {
+        "name": "Falaguerra Felice",
+        "country": "Italia",
+        "date": "1971-04-08",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "169",
+        "birthplace": "Morcone (BN)"
+    },
+    {
+        "name": "Falchi Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "428",
+        "birthplace": ""
+    },
+    {
+        "name": "Falco Filippo",
+        "country": "Italia",
+        "date": "1992-02-11",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "764",
+        "birthplace": "Taranto"
+    },
+    {
+        "name": "Farag\u00c3\u00b2 Paolo",
+        "country": "Italia",
+        "date": "1993-02-12",
+        "role": "Centrocampista",
+        "photo": "1603137278_farago.jpg",
+        "id": "684",
+        "birthplace": "Catanzaro"
+    },
+    {
+        "name": "Farias da Silva Diego",
+        "country": "Brasile",
+        "date": "1990-05-10",
+        "role": "Attaccante",
+        "photo": "1433253933_farias.jpg",
+        "id": "645",
+        "birthplace": "Sorocaba (BRA)"
+    },
+    {
+        "name": "Farina Emiliano",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "468",
+        "birthplace": ""
+    },
+    {
+        "name": "Farris Domenico",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "588",
+        "birthplace": ""
+    },
+    {
+        "name": "Fassberger Emilio",
+        "country": "Ungheria",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "559",
+        "birthplace": ""
+    },
+    {
+        "name": "Fazzini Jacopo",
+        "country": "Italia",
+        "date": "2003-03-16",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "814",
+        "birthplace": "Massa"
+    },
+    {
+        "name": "Fekete Priska Arpad",
+        "country": "Ungheria",
+        "date": "1921-03-05",
+        "role": "Attaccante",
+        "photo": "1243760542_Fekete.jpg",
+        "id": "523",
+        "birthplace": "Salg\u00f3tarj\u00e1n"
+    },
+    {
+        "name": "Felici Mattia",
+        "country": "Italia",
+        "date": "2001-04-17",
+        "role": "Centrocampista-Laterale",
+        "photo": "1773928833_felici.webp",
+        "id": "787",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Ferrarese Claudio",
+        "country": "Italia",
+        "date": "1978-09-07",
+        "role": "Centrocampista",
+        "photo": "1192058934_ferrarese.jpg",
+        "id": "141",
+        "birthplace": "Verona"
+    },
+    {
+        "name": "Ferrari Giovanni Carlo",
+        "country": "Italia",
+        "date": "1949-02-01",
+        "role": "Attaccante",
+        "photo": "1191413934_ferrari.jpg",
+        "id": "315",
+        "birthplace": "Arcene (BG)"
+    },
+    {
+        "name": "Ferrero Giuseppe",
+        "country": "Italia",
+        "date": "1942-10-13",
+        "role": "Centrocampista",
+        "photo": "1191413951_ferrero.jpg",
+        "id": "357",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Ferri Michele",
+        "country": "Italia",
+        "date": "1981-05-29",
+        "role": "Difensore-Terzino",
+        "photo": "1192058954_ferri.jpg",
+        "id": "352",
+        "birthplace": "Busto Arsizio (VA)"
+    },
+    {
+        "name": "Festa Gianluca",
+        "country": "Italia",
+        "date": "1969-03-15",
+        "role": "Difensore-Centrale",
+        "photo": "1192050544_festa.jpg",
+        "id": "35",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Fini Michele",
+        "country": "Italia",
+        "date": "1974-06-14",
+        "role": "Centrocampista",
+        "photo": "1192106574_fini.jpg",
+        "id": "398",
+        "birthplace": "Sorso (SS)"
+    },
+    {
+        "name": "Fioravanti Renato",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "475",
+        "birthplace": ""
+    },
+    {
+        "name": "Fiori Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "599",
+        "birthplace": ""
+    },
+    {
+        "name": "Fiori Valerio",
+        "country": "Italia",
+        "date": "1969-04-27",
+        "role": "Portiere",
+        "photo": "1192052149_fiori.jpg",
+        "id": "132",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Fiorillo Ugo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "604",
+        "birthplace": ""
+    },
+    {
+        "name": "Firicano Aldo",
+        "country": "Italia",
+        "date": "1967-03-12",
+        "role": "Difensore-Centrale",
+        "photo": "1192051174_firicano.jpg",
+        "id": "135",
+        "birthplace": "Trapani"
+    },
+    {
+        "name": "Foggia Pasquale",
+        "country": "Italia",
+        "date": "1983-06-03",
+        "role": "Fantasista",
+        "photo": "1192106596_foggia.jpg",
+        "id": "399",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Fois Daniele",
+        "country": "Italia",
+        "date": "1978-09-16",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "128",
+        "birthplace": "Sassari (SS)"
+    },
+    {
+        "name": "Folorunsho Michael Ijemuan",
+        "country": "Italia",
+        "date": "1998-02-07",
+        "role": "Centrocampista",
+        "photo": "1773933861_folrhuso.jpeg",
+        "id": "798",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Fonseca Daniel",
+        "country": "Uruguay",
+        "date": "1969-09-13",
+        "role": "Attaccante",
+        "photo": "1192051355_fonseca.jpg",
+        "id": "162",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Fontolan Davide",
+        "country": "Italia",
+        "date": "1966-02-24",
+        "role": "Attaccante-Seconda Punta",
+        "photo": "1192056455_fontolan.jpg",
+        "id": "76",
+        "birthplace": "Garbagnate Milanese (MI)"
+    },
+    {
+        "name": "Fortin Marco",
+        "country": "Italia",
+        "date": "1974-07-08",
+        "role": "Portiere",
+        "photo": "1192059446_fortin.jpg",
+        "id": "374",
+        "birthplace": "Noale (VE)"
+    },
+    {
+        "name": "Fossati Marco",
+        "country": "Italia",
+        "date": "1992-05-10",
+        "role": "Centrocampista",
+        "photo": "1453189441_fossati.jpg",
+        "id": "663",
+        "birthplace": "Monza"
+    },
+    {
+        "name": "Francescoli Enzo",
+        "country": "Uruguay",
+        "date": "1961-11-12",
+        "role": "Fantasista",
+        "photo": "1192051372_francescoli.jpg",
+        "id": "157",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Franzone Maurizio",
+        "country": "Italia",
+        "date": "1969-05-25",
+        "role": "Portiere",
+        "photo": "1192053462_franzone.jpg",
+        "id": "95",
+        "birthplace": "Piacenza"
+    },
+    {
+        "name": "Frugali Fabio",
+        "country": "Italia",
+        "date": "1926-05-14",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "508",
+        "birthplace": "Sampierdarena"
+    },
+    {
+        "name": "Fulvi Alfredo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "285",
+        "birthplace": ""
+    },
+    {
+        "name": "Gadau Alessandro",
+        "country": "Italia",
+        "date": "1981-02-10",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "83",
+        "birthplace": "Alghero (SS)"
+    },
+    {
+        "name": "Gaetano Gianluca",
+        "country": "Italia",
+        "date": "2000-05-05",
+        "role": "Attaccante",
+        "photo": "1773931805_528523_gianluca_gaetano_20250903204556.jpg",
+        "id": "781",
+        "birthplace": "Cimitile"
+    },
+    {
+        "name": "Gagliano Luca",
+        "country": "Italia",
+        "date": "2000-07-14",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "724",
+        "birthplace": "Alghero"
+    },
+    {
+        "name": "Gagliardi Giuseppe",
+        "country": "Italia",
+        "date": "1935-09-06",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "420",
+        "birthplace": "Pioraco (MC)"
+    },
+    {
+        "name": "Gagliardini Roberto",
+        "country": "Italia",
+        "date": "1994-04-07",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "822",
+        "birthplace": "Bergamo"
+    },
+    {
+        "name": "Gallardo Felix Alberto",
+        "country": "Peru",
+        "date": "1940-11-27",
+        "role": "Attaccante",
+        "photo": "1191363365_gallardo.jpg",
+        "id": "384",
+        "birthplace": "Lima (Peru)"
+    },
+    {
+        "name": "Gallon Mattia",
+        "country": "Italia",
+        "date": "1992-05-30",
+        "role": "Attaccante",
+        "photo": "1248985986_Gallon.jpg",
+        "id": "533",
+        "birthplace": "Arborea (OR)  "
+    },
+    {
+        "name": "Gambini Piercarlo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "517",
+        "birthplace": ""
+    },
+    {
+        "name": "Garau Giacomo",
+        "country": "Italia",
+        "date": "1988-02-27",
+        "role": "Difensore",
+        "photo": "",
+        "id": "400",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Garbati ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "611",
+        "birthplace": ""
+    },
+    {
+        "name": "Gattelli Emanuele",
+        "country": "Italia",
+        "date": "1953-12-21",
+        "role": "Attaccante",
+        "photo": "1191414066_gattelli.jpg",
+        "id": "290",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Gaudenzi Gianluca",
+        "country": "Italia",
+        "date": "1965-12-28",
+        "role": "Centrocampista",
+        "photo": "1192095371_gaudenzi.jpg",
+        "id": "158",
+        "birthplace": "Riccione (RN)"
+    },
+    {
+        "name": "Gavioli Riccardo",
+        "country": "Italia",
+        "date": "1983-07-26",
+        "role": "Centrocampista",
+        "photo": "1309280656_Gavioli.jpg",
+        "id": "575",
+        "birthplace": "Alghero (SS)"
+    },
+    {
+        "name": "Gazza Gianfranco",
+        "country": "Italia",
+        "date": "1939-10-22",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "423",
+        "birthplace": "Vercelli"
+    },
+    {
+        "name": "Gennari Livio",
+        "country": "Italia",
+        "date": "1923-12-06",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "499",
+        "birthplace": "Rivarolo"
+    },
+    {
+        "name": "Geraldino Dos Santos Galvao Joao Pedro",
+        "country": "Brasile",
+        "date": "1992-03-09",
+        "role": "Centrocampista",
+        "photo": "1433254025_jpedro.jpg",
+        "id": "649",
+        "birthplace": "Ipatinga"
+    },
+    {
+        "name": "Gerbaudo Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "434",
+        "birthplace": ""
+    },
+    {
+        "name": "Gerlin Leone",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "528",
+        "birthplace": ""
+    },
+    {
+        "name": "Ghersetich Tullio",
+        "country": "Italia",
+        "date": "1930-04-28",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "478",
+        "birthplace": ""
+    },
+    {
+        "name": "Giacomello Walter",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "552",
+        "birthplace": ""
+    },
+    {
+        "name": "Giancamilli Gianfranco",
+        "country": "Italia",
+        "date": "1962-02-25",
+        "role": "Difensore",
+        "photo": "1192049911_giancamilli.jpg",
+        "id": "211",
+        "birthplace": "Senigallia (AN)"
+    },
+    {
+        "name": "Giannetti Niccol\u00c3\u00b2",
+        "country": "Italia",
+        "date": "1991-05-12",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "665",
+        "birthplace": "Siena"
+    },
+    {
+        "name": "Giorico Daniele",
+        "country": "Italia",
+        "date": "1992-01-01",
+        "role": "Centrocampista",
+        "photo": "1312027212_giorico.jpg",
+        "id": "579",
+        "birthplace": "Alghero (SS)"
+    },
+    {
+        "name": "Giovannelli Maurizio",
+        "country": "Italia",
+        "date": "1958-03-12",
+        "role": "Centrocampista",
+        "photo": "1192051027_giovanelli.jpg",
+        "id": "195",
+        "birthplace": "Sermide (MN)"
+    },
+    {
+        "name": "Gnocchi Nino",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "558",
+        "birthplace": ""
+    },
+    {
+        "name": "Gobbi Massimo",
+        "country": "Italia",
+        "date": "1980-01-31",
+        "role": "Centrocampista",
+        "photo": "1192058378_gobbi.jpg",
+        "id": "13",
+        "birthplace": "MILANO"
+    },
+    {
+        "name": "Godin Leal Diego Roberto",
+        "country": "Uruguay",
+        "date": "1986-02-16",
+        "role": "Difensore-Centrale",
+        "photo": "1601744527_godin.jpg",
+        "id": "726",
+        "birthplace": "Rosario"
+    },
+    {
+        "name": "Goldaniga Edoardo",
+        "country": "Italia",
+        "date": "1993-11-02",
+        "role": "Difensore",
+        "photo": "",
+        "id": "752",
+        "birthplace": ""
+    },
+    {
+        "name": "Goletti Daniele",
+        "country": "Italia",
+        "date": "1958-08-18",
+        "role": "Portiere",
+        "photo": "1191414099_goletti.jpg",
+        "id": "243",
+        "birthplace": "Viterbo"
+    },
+    {
+        "name": "Golin Piero",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "507",
+        "birthplace": ""
+    },
+    {
+        "name": "Gonzalez Alejandro",
+        "country": "Italia",
+        "date": "1988-03-23",
+        "role": "Difensore",
+        "photo": "",
+        "id": "650",
+        "birthplace": "Montevideo (URU)"
+    },
+    {
+        "name": "Gorgone Giorgio",
+        "country": "Italia",
+        "date": "1976-08-18",
+        "role": "Centrocampista",
+        "photo": "1192056827_gorgone.jpg",
+        "id": "43",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Gori Massimo",
+        "country": "Italia",
+        "date": "1961-05-29",
+        "role": "Attaccante",
+        "photo": "1192048720_gori_m.jpg",
+        "id": "263",
+        "birthplace": "Rimini (FO)"
+    },
+    {
+        "name": "Gori Sergio",
+        "country": "Italia",
+        "date": "1946-02-24",
+        "role": "Attaccante",
+        "photo": "1191414122_gori.jpg",
+        "id": "332",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Gozzi Simone",
+        "country": "Italia",
+        "date": "1986-04-13",
+        "role": "Difensore",
+        "photo": "1324450609_gozzi.jpg",
+        "id": "576",
+        "birthplace": "Reggio Emilia"
+    },
+    {
+        "name": "Grandesso Silvestro",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "607",
+        "birthplace": ""
+    },
+    {
+        "name": "Grandu Nicola",
+        "country": "Italia",
+        "date": "2006-07-15",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "817",
+        "birthplace": "Sassari"
+    },
+    {
+        "name": "Grassadonia Gianluca",
+        "country": "Italia",
+        "date": "1972-05-20",
+        "role": "Difensore",
+        "photo": "1192053476_grassadonia.jpg",
+        "id": "38",
+        "birthplace": "Venezia"
+    },
+    {
+        "name": "Grassi Alberto",
+        "country": "Italia",
+        "date": "1997-03-07",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "746",
+        "birthplace": "Lumezzane"
+    },
+    {
+        "name": "Grasso Biagio",
+        "country": "Italia",
+        "date": "1967-03-08",
+        "role": "Difensore",
+        "photo": "",
+        "id": "224",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Graziani Vito",
+        "country": "Italia",
+        "date": "1956-12-01",
+        "role": "Centrocampista",
+        "photo": "1191414140_graziani.jpg",
+        "id": "302",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Greatti Ricciotti",
+        "country": "Italia",
+        "date": "1939-10-13",
+        "role": "Centrocampista",
+        "photo": "1191363400_greatti.jpg",
+        "id": "345",
+        "birthplace": "Basiliano (UD)"
+    },
+    {
+        "name": "Greco Alfonso",
+        "country": "Italia",
+        "date": "1969-05-19",
+        "role": "Centrocampista",
+        "photo": "1192051201_greco.jpg",
+        "id": "181",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Gregori Ivan",
+        "country": "Italia",
+        "date": "1947-04-25",
+        "role": "Centrocampista",
+        "photo": "1191414158_gregori.jpg",
+        "id": "313",
+        "birthplace": "Oderzo (TV)"
+    },
+    {
+        "name": "Griger Adam",
+        "country": "Slovacchia",
+        "date": "2004-03-16",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "767",
+        "birthplace": "Presov"
+    },
+    {
+        "name": "Grillone Franco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "537",
+        "birthplace": ""
+    },
+    {
+        "name": "Grottola Rosario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "1192190307_grottola.jpg",
+        "id": "411",
+        "birthplace": ""
+    },
+    {
+        "name": "Grudina Gianpaolo",
+        "country": "Italia",
+        "date": "1956-02-04",
+        "role": "Portiere",
+        "photo": "",
+        "id": "265",
+        "birthplace": "Decimomannu (CA)"
+    },
+    {
+        "name": "Gualazzi Enrico",
+        "country": "Italia",
+        "date": "1925-02-01",
+        "role": "Portiere",
+        "photo": "1241974609_Gualazzi.jpg",
+        "id": "514",
+        "birthplace": "Cremona"
+    },
+    {
+        "name": "Guana Roberto",
+        "country": "Italia",
+        "date": "1981-01-21",
+        "role": "Centrocampista",
+        "photo": "1192101031_guana.jpg",
+        "id": "52",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Hatzidiakos Pantelis",
+        "country": "Grecia",
+        "date": "1997-01-18",
+        "role": "Difensore",
+        "photo": "1773931878_instagran-hatzidiakos-1000x600.webp",
+        "id": "778",
+        "birthplace": "Rodi"
+    },
+    {
+        "name": "Hellies Antonello",
+        "country": "Italia",
+        "date": "1939-07-12",
+        "role": "Difensore",
+        "photo": "1389264832_hellies.jpg",
+        "id": "417",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Hellies Chicco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "561",
+        "birthplace": ""
+    },
+    {
+        "name": "Hellies Giancarlo",
+        "country": "Italia",
+        "date": "1947-05-24",
+        "role": "Centrocampista-Laterale",
+        "photo": "1234299468_Giancarlo_Hellies.JPG",
+        "id": "496",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Herrera Jose'",
+        "country": "Uruguay",
+        "date": "1965-06-17",
+        "role": "Centrocampista",
+        "photo": "1192051391_herrera.jpg",
+        "id": "143",
+        "birthplace": "El Tala (Uru)"
+    },
+    {
+        "name": "Hitchens Gerry",
+        "country": "Inghilterra",
+        "date": "1934-10-08",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1191363450_hitchens.jpg",
+        "id": "359",
+        "birthplace": "Rawnsley"
+    },
+    {
+        "name": "Husbauer Josef",
+        "country": "Repubblica Ceca",
+        "date": "1990-03-16",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "653",
+        "birthplace": "Praga"
+    },
+    {
+        "name": "Ibarbo Victor",
+        "country": "Colombia",
+        "date": "1990-05-19",
+        "role": "Attaccante",
+        "photo": "1356127418_ibarbo.jpg",
+        "id": "578",
+        "birthplace": "Santiago de Cali"
+    },
+    {
+        "name": "Ibraimi Agim",
+        "country": "Macedonia",
+        "date": "1988-08-29",
+        "role": "Attaccante",
+        "photo": "1378156276_ibrahimi.jpeg",
+        "id": "624",
+        "birthplace": "Tetovo"
+    },
+    {
+        "name": "Idili Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "589",
+        "birthplace": ""
+    },
+    {
+        "name": "Idini Costantino",
+        "country": "Italia",
+        "date": "1955-03-27",
+        "role": "Difensore",
+        "photo": "",
+        "id": "307",
+        "birthplace": "Porto Torres"
+    },
+    {
+        "name": "Idrissi Riyad",
+        "country": "Italia",
+        "date": "2005-06-13",
+        "role": "Difensore-Terzino",
+        "photo": "1773934032_Ryad_Idrissi_(cropped2).jpg",
+        "id": "799",
+        "birthplace": ""
+    },
+    {
+        "name": "Ielpo Mario",
+        "country": "Italia",
+        "date": "1963-06-08",
+        "role": "Portiere",
+        "photo": "1192050815_ielpo.jpg",
+        "id": "159",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Iezzo Gennaro",
+        "country": "Italia",
+        "date": "1973-06-08",
+        "role": "Portiere",
+        "photo": "1192058089_iezzo.jpg",
+        "id": "8",
+        "birthplace": "CASTELLAMMARE DI STABIA (NA)"
+    },
+    {
+        "name": "Ikonomou Mario",
+        "country": "Grecia",
+        "date": "1992-10-06",
+        "role": "Difensore-Centrale",
+        "photo": "1373351225_ikonomou.jpg",
+        "id": "623",
+        "birthplace": "Giannina"
+    },
+    {
+        "name": "Imborgia Antonino",
+        "country": "Italia",
+        "date": "1958-08-21",
+        "role": "Difensore",
+        "photo": "1192048737_imborgia.jpg",
+        "id": "258",
+        "birthplace": "Palermo"
+    },
+    {
+        "name": "Ioni\u00c8\u203a\u00c4\u0192 Artur",
+        "country": "Moldavia",
+        "date": "1990-08-17",
+        "role": "Centrocampista",
+        "photo": "1473837475_ionita.jpg",
+        "id": "676",
+        "birthplace": "Chi\u00c8\u2122in\u00c4\u0192u"
+    },
+    {
+        "name": "Isla Mauricio An\u00c3\u00adbal",
+        "country": "Cile",
+        "date": "1988-06-12",
+        "role": "Centrocampista-Laterale",
+        "photo": "1470986864_isla.jpg",
+        "id": "679",
+        "birthplace": "Santiago del Cile"
+    },
+    {
+        "name": "Jankto Jakub",
+        "country": "Repubblica Ceca",
+        "date": "1996-01-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "772",
+        "birthplace": "Praha"
+    },
+    {
+        "name": "Jean Roberto Leverbe Maxime",
+        "country": "Francia",
+        "date": "1997-02-15",
+        "role": "Difensore",
+        "photo": "",
+        "id": "708",
+        "birthplace": "Villepinte"
+    },
+    {
+        "name": "Jeda Jedaias Capucho Neves",
+        "country": "Brasile",
+        "date": "1979-04-15",
+        "role": "Attaccante",
+        "photo": "1220782686_jeda.JPG",
+        "id": "450",
+        "birthplace": "Santarem"
+    },
+    {
+        "name": "Kallon Mohammed",
+        "country": "Sierra Leone",
+        "date": "1979-10-06",
+        "role": "Attaccante",
+        "photo": "1192054363_kallon.jpg",
+        "id": "107",
+        "birthplace": "Freetown"
+    },
+    {
+        "name": "Katergiannakis Theofanis",
+        "country": "Grecia",
+        "date": "1974-02-16",
+        "role": "Portiere",
+        "photo": "1192058406_katergiannakis.jpg",
+        "id": "37",
+        "birthplace": "Salonicco"
+    },
+    {
+        "name": "Keita Moustapha",
+        "country": "Francia",
+        "date": "1980-05-11",
+        "role": "Centrocampista",
+        "photo": "1243761483_keita.jpg",
+        "id": "84",
+        "birthplace": "Clichy"
+    },
+    {
+        "name": "Kilicsoy Semih",
+        "country": "Turchia",
+        "date": "2005-08-15",
+        "role": "Attaccante",
+        "photo": "1773934322_kilisky.jpeg",
+        "id": "800",
+        "birthplace": "Gaziosmanpasa"
+    },
+    {
+        "name": "Klavan Ragnar",
+        "country": "Estonia",
+        "date": "1985-10-30",
+        "role": "Difensore-Centrale",
+        "photo": "1603137874_klavan.jpeg",
+        "id": "703",
+        "birthplace": "Viljandi"
+    },
+    {
+        "name": "Kofler Raphael",
+        "country": "Italia",
+        "date": "2005-04-26",
+        "role": "Difensore",
+        "photo": "1787320607_kofler.jpg",
+        "id": "812",
+        "birthplace": "Merano"
+    },
+    {
+        "name": "Koprivec Jan ",
+        "country": "Slovenia",
+        "date": "1988-07-15",
+        "role": "Portiere",
+        "photo": "1192106627_koprivec.jpg",
+        "id": "407",
+        "birthplace": "CAPODISTRIA (SLO)"
+    },
+    {
+        "name": "Kourfalidis Christos",
+        "country": "Grecia",
+        "date": "2002-11-02",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "751",
+        "birthplace": ""
+    },
+    {
+        "name": "Krajnc Luka",
+        "country": "Slovenia",
+        "date": "1994-09-19",
+        "role": "Difensore",
+        "photo": "1469640830_krajnc.JPG",
+        "id": "659",
+        "birthplace": "Ptuj"
+    },
+    {
+        "name": "La Torre Nunzio",
+        "country": "Italia",
+        "date": "1973-04-21",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192052268_latorre.jpg",
+        "id": "155",
+        "birthplace": "Catania"
+    },
+    {
+        "name": "Ladinetti Riccardo",
+        "country": "Italia",
+        "date": "2000-12-20",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "723",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Lai Nicola",
+        "country": "Italia",
+        "date": "1986-01-17",
+        "role": "Centrocampista",
+        "photo": "1192095781_lai.jpg",
+        "id": "58",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Lamagni Oreste",
+        "country": "Italia",
+        "date": "1952-04-23",
+        "role": "Difensore",
+        "photo": "1191414305_lamagni.jpg",
+        "id": "244",
+        "birthplace": "Marcaria (MN)"
+    },
+    {
+        "name": "Lambertini Vincenzo",
+        "country": "Italia",
+        "date": "1970-05-07",
+        "role": "Difensore-Terzino",
+        "photo": "1192100860_lambertini.jpg",
+        "id": "110",
+        "birthplace": "Molfetta (BA)"
+    },
+    {
+        "name": "Laner Simon",
+        "country": "Italia",
+        "date": "1984-01-28",
+        "role": "Centrocampista",
+        "photo": "1295295237_LanerSimon.jpg",
+        "id": "570",
+        "birthplace": "Merano"
+    },
+    {
+        "name": "Langella Antonio",
+        "country": "Italia",
+        "date": "1977-03-30",
+        "role": "Attaccante",
+        "photo": "1192057687_langella.jpg",
+        "id": "21",
+        "birthplace": "NAPOLI"
+    },
+    {
+        "name": "Lantieri Marco",
+        "country": "Italia",
+        "date": "1979-04-05",
+        "role": "Difensore",
+        "photo": "",
+        "id": "109",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Lantignotti Christian",
+        "country": "Italia",
+        "date": "1970-03-18",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192052495_lantignotti.jpg",
+        "id": "137",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Lapadula Vargas Gianluca",
+        "country": "Peru",
+        "date": "1990-02-07",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "754",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Larrivey Joaquin",
+        "country": "Argentina",
+        "date": "1984-08-20",
+        "role": "Attaccante",
+        "photo": "1192106689_larrivey.jpg",
+        "id": "401",
+        "birthplace": "Buenos Aires"
+    },
+    {
+        "name": "Lazzari Andrea",
+        "country": "Italia",
+        "date": "1984-12-03",
+        "role": "Centrocampista",
+        "photo": "1240156871_lazzari.jpg",
+        "id": "457",
+        "birthplace": "Bergamo  "
+    },
+    {
+        "name": "Lella Nunzio",
+        "country": "Italia",
+        "date": "2000-07-28",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "759",
+        "birthplace": "Santeramo in Colle"
+    },
+    {
+        "name": "Leschio Roberto",
+        "country": "Italia",
+        "date": "1954-10-10",
+        "role": "Centrocampista",
+        "photo": "1192060200_leschio.jpg",
+        "id": "314",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Letari Elio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "464",
+        "birthplace": ""
+    },
+    {
+        "name": "Liteta Joseph",
+        "country": "Zambia",
+        "date": "2006-02-22",
+        "role": "Centrocampista",
+        "photo": "1774370961_liteta.jpeg",
+        "id": "803",
+        "birthplace": "Lusaka"
+    },
+    {
+        "name": "Liverani Fabio",
+        "country": "Italia",
+        "date": "1976-04-29",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "167",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Logozzo Antonio",
+        "country": "Italia",
+        "date": "1954-09-26",
+        "role": "Difensore",
+        "photo": "1191414321_logozzo.jpg",
+        "id": "280",
+        "birthplace": "Gioiosa Ionica (RC)"
+    },
+    {
+        "name": "Loi Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "585",
+        "birthplace": ""
+    },
+    {
+        "name": "Loi Antonio",
+        "country": "Italia",
+        "date": "1996-08-25",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "633",
+        "birthplace": "Isili (NU)"
+    },
+    {
+        "name": "Loi Arnaldo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "470",
+        "birthplace": ""
+    },
+    {
+        "name": "Loi Sandro",
+        "country": "Italia",
+        "date": "1960-03-14",
+        "role": "Difensore",
+        "photo": "1191414339_loi.jpg",
+        "id": "245",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Lombardi Bruno",
+        "country": "Italia",
+        "date": "1952-09-23",
+        "role": "Difensore-Centrale",
+        "photo": "1191414389_lombardi.jpg",
+        "id": "337",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Longo Miguel Angelo",
+        "country": "Argentina",
+        "date": "1939-03-25",
+        "role": "Difensore",
+        "photo": "1191400456_longo_MA.jpg",
+        "id": "356",
+        "birthplace": "Buenos Aires"
+    },
+    {
+        "name": "Longo Moreno",
+        "country": "Italia",
+        "date": "1976-02-14",
+        "role": "Difensore",
+        "photo": "1192101179_longo.jpg",
+        "id": "44",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Longo Samuele",
+        "country": "Italia",
+        "date": "1992-01-12",
+        "role": "Attaccante",
+        "photo": "1409670052_longo.jpg",
+        "id": "640",
+        "birthplace": "Valdobbiadene (TV)"
+    },
+    {
+        "name": "Longobucco Silvio",
+        "country": "Italia",
+        "date": "1951-06-05",
+        "role": "Difensore-Terzino",
+        "photo": "1191414415_longobucco.jpg",
+        "id": "281",
+        "birthplace": "Scalea (CS)"
+    },
+    {
+        "name": "Longoni Giuseppe",
+        "country": "Italia",
+        "date": "1942-04-12",
+        "role": "Difensore-Terzino",
+        "photo": "1191400485_longoni.jpg",
+        "id": "355",
+        "birthplace": "Seregno (Mi)"
+    },
+    {
+        "name": "Lonstrup Christian",
+        "country": "Danimarca",
+        "date": "1971-04-04",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192052918_lonstrup.jpg",
+        "id": "112",
+        "birthplace": "Copenhagen"
+    },
+    {
+        "name": "Lopez Diego",
+        "country": "Uruguay",
+        "date": "1974-08-22",
+        "role": "Difensore",
+        "photo": "1602960032_diego-lopez.jpg",
+        "id": "6",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Loranzi Enrico",
+        "country": "Italia",
+        "date": "1932-08-16",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "506",
+        "birthplace": "Piacenza"
+    },
+    {
+        "name": "Lorenzi Oscar",
+        "country": "Italia",
+        "date": "1939-01-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "410",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Loria Simone",
+        "country": "Italia",
+        "date": "1976-10-28",
+        "role": "Difensore",
+        "photo": "1192057704_loria.jpg",
+        "id": "7",
+        "birthplace": "TORINO"
+    },
+    {
+        "name": "Loriga Franco",
+        "country": "Italia",
+        "date": "1936-09-02",
+        "role": "Centrocampista",
+        "photo": "1361174983_4.jpg",
+        "id": "435",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Lovato Matteo",
+        "country": "Italia",
+        "date": "2000-02-14",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "750",
+        "birthplace": "Monselice"
+    },
+    {
+        "name": "Lucenti Giorgio",
+        "country": "Italia",
+        "date": "1975-09-19",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192056476_lucenti.jpg",
+        "id": "45",
+        "birthplace": "Ragusa"
+    },
+    {
+        "name": "Lupatelli Cristiano",
+        "country": "Italia",
+        "date": "1978-06-21",
+        "role": "Portiere",
+        "photo": "1240345763_lupatelli.jpg",
+        "id": "462",
+        "birthplace": "Perugia"
+    },
+    {
+        "name": "Luperto Sebastiano",
+        "country": "Italia",
+        "date": "1996-09-06",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "783",
+        "birthplace": "Lecce"
+    },
+    {
+        "name": "Luvumbo Zito",
+        "country": "Angola",
+        "date": "2002-03-09",
+        "role": "Attaccante",
+        "photo": "1602576356_Zito-Luvumbo-1000x600.jpg",
+        "id": "736",
+        "birthplace": "Luanda"
+    },
+    {
+        "name": "Lykogiannis Charalampos",
+        "country": "Grecia",
+        "date": "1993-10-22",
+        "role": "Difensore-Terzino",
+        "photo": "1603137962_Lykogiannis.jpg",
+        "id": "697",
+        "birthplace": "Il Pirero (GRE)"
+    },
+    {
+        "name": "M'Poku Paul-Jose",
+        "country": "Belgio",
+        "date": "1992-04-19",
+        "role": "Centrocampista",
+        "photo": "1427016116_mpoku.jpg",
+        "id": "654",
+        "birthplace": "Kinshasa (GHA)"
+    },
+    {
+        "name": "Macellari Fabio",
+        "country": "Italia",
+        "date": "1974-08-23",
+        "role": "Difensore",
+        "photo": "1192053506_macellari.jpg",
+        "id": "32",
+        "birthplace": "Sesto San Giovanni (MI)"
+    },
+    {
+        "name": "Maggiora Domenico",
+        "country": "Italia",
+        "date": "1955-01-14",
+        "role": "Difensore",
+        "photo": "1192048760_maggiora.jpg",
+        "id": "256",
+        "birthplace": "Quattordio (AL)"
+    },
+    {
+        "name": "Magherini Guido",
+        "country": "Italia",
+        "date": "1951-07-02",
+        "role": "Centrocampista",
+        "photo": "1191414439_magherini.jpg",
+        "id": "308",
+        "birthplace": "Firenze"
+    },
+    {
+        "name": "Magliocchetti Daniele",
+        "country": "Italia",
+        "date": "1986-05-11",
+        "role": "Difensore",
+        "photo": "1192106762_magliocchetti.jpg",
+        "id": "402",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Makoumbou Antoine",
+        "country": "Repubblica Del Congo",
+        "date": "1998-07-18",
+        "role": "Centrocampista",
+        "photo": "1773932103_makoumbu.jpg",
+        "id": "760",
+        "birthplace": "Parigi"
+    },
+    {
+        "name": "Maldini Daniel",
+        "country": "Italia",
+        "date": "2001-10-01",
+        "role": "Attaccante",
+        "photo": "1787901649_maldini.jpeg",
+        "id": "810",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Maligoi Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "608",
+        "birthplace": ""
+    },
+    {
+        "name": "Malinverni ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "592",
+        "birthplace": ""
+    },
+    {
+        "name": "Malizia Nello",
+        "country": "Italia",
+        "date": "1950-07-30",
+        "role": "Portiere",
+        "photo": "1192048104_malizia.jpg",
+        "id": "264",
+        "birthplace": "Montenero di Bisaccia (CB)"
+    },
+    {
+        "name": "Maltagliati Roberto",
+        "country": "Italia",
+        "date": "1969-04-07",
+        "role": "Difensore",
+        "photo": "1192058143_maltagliati.jpg",
+        "id": "10",
+        "birthplace": "CUGGIONO (MI)"
+    },
+    {
+        "name": "Mamberti Ugo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "590",
+        "birthplace": ""
+    },
+    {
+        "name": "Manca Luigi",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "493",
+        "birthplace": ""
+    },
+    {
+        "name": "Mancin Eraldo",
+        "country": "Italia",
+        "date": "1945-08-14",
+        "role": "Difensore-Terzino",
+        "photo": "1191414463_mancin.jpg",
+        "id": "327",
+        "birthplace": "Porto Tolle (RO)"
+    },
+    {
+        "name": "Mancini Paolo",
+        "country": "Italia",
+        "date": "1970-08-01",
+        "role": "Portiere",
+        "photo": "1192057722_mancini.jpg",
+        "id": "47",
+        "birthplace": ""
+    },
+    {
+        "name": "Mancosu Marco",
+        "country": "Italia",
+        "date": "1988-08-22",
+        "role": "Centrocampista",
+        "photo": "1192059530_mancosu.jpg",
+        "id": "396",
+        "birthplace": ""
+    },
+    {
+        "name": "Manera Mario",
+        "country": "Italia",
+        "date": "1947-02-20",
+        "role": "Difensore",
+        "photo": "1191414484_manera.jpg",
+        "id": "348",
+        "birthplace": "Bascap&egrave; (PV)"
+    },
+    {
+        "name": "Manighetti Gian Paolo",
+        "country": "Italia",
+        "date": "1969-01-24",
+        "role": "Difensore-Terzino",
+        "photo": "1192057742_manighetti.jpg",
+        "id": "46",
+        "birthplace": "Filago (BG)"
+    },
+    {
+        "name": "Mantovani Alberto",
+        "country": "Italia",
+        "date": "1952-03-13",
+        "role": "Difensore",
+        "photo": "1191414548_mantovani.jpg",
+        "id": "321",
+        "birthplace": "Castel D'Ario (MN)"
+    },
+    {
+        "name": "Mantovani Giovanni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "591",
+        "birthplace": ""
+    },
+    {
+        "name": "Maraschi Mario",
+        "country": "Italia",
+        "date": "1939-08-28",
+        "role": "Attaccante",
+        "photo": "1191414581_maraschi.jpg",
+        "id": "344",
+        "birthplace": "Lodi"
+    },
+    {
+        "name": "Marchese Vincenzo",
+        "country": "Italia",
+        "date": "1970-09-25",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "174",
+        "birthplace": "Catania"
+    },
+    {
+        "name": "Marchesi Desiderio",
+        "country": "Italia",
+        "date": "1950-07-24",
+        "role": "Attaccante",
+        "photo": "1191414604_marchesi.jpg",
+        "id": "326",
+        "birthplace": "S. Angelo Lodigliano (MI)"
+    },
+    {
+        "name": "Marchetti Alberto",
+        "country": "Italia",
+        "date": "1954-12-16",
+        "role": "Centrocampista",
+        "photo": "1191414622_marchetti_a.jpg",
+        "id": "269",
+        "birthplace": "Montevarchi (AR)"
+    },
+    {
+        "name": "Marchetti Federico",
+        "country": "Italia",
+        "date": "1983-02-07",
+        "role": "Portiere",
+        "photo": "1232438886_MarchettiFederico.JPG",
+        "id": "460",
+        "birthplace": "Bassano del Grappa (VI)"
+    },
+    {
+        "name": "Marchetti Mariano",
+        "country": "Italia",
+        "date": "1960-02-20",
+        "role": "Centrocampista",
+        "photo": "1192048176_marchetti_m.jpg",
+        "id": "270",
+        "birthplace": "Bassano del Grappa (VI)"
+    },
+    {
+        "name": "Marchi Marco",
+        "country": "Italia",
+        "date": "1957-03-04",
+        "role": "Difensore",
+        "photo": "1192049934_marchi.jpg",
+        "id": "212",
+        "birthplace": "Firenze"
+    },
+    {
+        "name": "Marchi Sergio",
+        "country": "Italia",
+        "date": "1920-05-25",
+        "role": "Difensore-Terzino",
+        "photo": "1253038441_sergio_marchi.jpg",
+        "id": "549",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Marchini Davide",
+        "country": "Italia",
+        "date": "1981-02-23",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192106784_marchini.jpg",
+        "id": "392",
+        "birthplace": "PortoMaggiore (Ferrara)"
+    },
+    {
+        "name": "Marchisio Enzo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "476",
+        "birthplace": ""
+    },
+    {
+        "name": "Marcolin Dario",
+        "country": "Italia",
+        "date": "1971-10-28",
+        "role": "Attaccante",
+        "photo": "1192052298_marcolin.jpg",
+        "id": "153",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Marelli Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "600",
+        "birthplace": ""
+    },
+    {
+        "name": "Maresca Enzo",
+        "country": "Italia",
+        "date": "1980-02-10",
+        "role": "Centrocampista-Centrale",
+        "photo": "",
+        "id": "114",
+        "birthplace": "Ponte Cagnano (SA)"
+    },
+    {
+        "name": "Marigosu Federico",
+        "country": "Italia",
+        "date": "2001-04-21",
+        "role": "Attaccante-Seconda Punta",
+        "photo": "",
+        "id": "725",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Marin Razvan",
+        "country": "Romania",
+        "date": "1996-05-23",
+        "role": "Centrocampista-Centrale",
+        "photo": "1602575387_marin.jpeg",
+        "id": "731",
+        "birthplace": "Bucarest"
+    },
+    {
+        "name": "Marino Vincenzo",
+        "country": "Italia",
+        "date": "1960-06-23",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "232",
+        "birthplace": "Capaccio Scalo (SA)"
+    },
+    {
+        "name": "Maritozzi Riccardo",
+        "country": "Italia",
+        "date": "1959-11-16",
+        "role": "Centrocampista",
+        "photo": "1192050570_maritozzi.jpg",
+        "id": "216",
+        "birthplace": "Russi (RA)"
+    },
+    {
+        "name": "Marrazzo Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "249",
+        "birthplace": ""
+    },
+    {
+        "name": "Marruocco Vincenzo",
+        "country": "Italia",
+        "date": "1979-03-26",
+        "role": "Portiere",
+        "photo": "1192106801_marruocco.jpg",
+        "id": "403",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Martignoni Bruno",
+        "country": "Svizzera",
+        "date": "1992-12-13",
+        "role": "Difensore",
+        "photo": "1479651145_marignoni.jpeg",
+        "id": "682",
+        "birthplace": "Gambarogno"
+    },
+    {
+        "name": "Martini Ivano",
+        "country": "Italia",
+        "date": "1964-06-05",
+        "role": "Difensore",
+        "photo": "",
+        "id": "334",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Martiradonna Mario",
+        "country": "Italia",
+        "date": "1938-08-26",
+        "role": "Difensore-Terzino",
+        "photo": "1191400571_martiradonna.jpg",
+        "id": "341",
+        "birthplace": "Bari"
+    },
+    {
+        "name": "Marzorati Lino",
+        "country": "Italia",
+        "date": "1986-10-12",
+        "role": "Difensore",
+        "photo": "1252956650_marzorati.jpg",
+        "id": "534",
+        "birthplace": "Rho"
+    },
+    {
+        "name": "Masetto Franco",
+        "country": "Italia",
+        "date": "1942-07-10",
+        "role": "Difensore",
+        "photo": "",
+        "id": "369",
+        "birthplace": "Sesto San Giovanni (MI)"
+    },
+    {
+        "name": "Massolin Yanis",
+        "country": "Francia",
+        "date": "2002-09-20",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "823",
+        "birthplace": "Moulins"
+    },
+    {
+        "name": "Mastrolilli Mattia",
+        "country": "Italia",
+        "date": "1978-05-08",
+        "role": "Attaccante",
+        "photo": "1192057184_mastrolilli.jpg",
+        "id": "68",
+        "birthplace": "Oristano"
+    },
+    {
+        "name": "Matheu Carlos",
+        "country": "Argentina",
+        "date": "1985-05-13",
+        "role": "Difensore",
+        "photo": "1225666297_CarlosMatheu.JPG",
+        "id": "461",
+        "birthplace": "Quilmes"
+    },
+    {
+        "name": "Matri Alessandro",
+        "country": "Italia",
+        "date": "1984-08-19",
+        "role": "Attaccante",
+        "photo": "1192106819_matri.jpg",
+        "id": "404",
+        "birthplace": "Sant'Angelo Lodigiano (LO)"
+    },
+    {
+        "name": "Matta Luigi",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "596",
+        "birthplace": ""
+    },
+    {
+        "name": "Matteoli Gianfranco",
+        "country": "Italia",
+        "date": "1959-04-21",
+        "role": "Centrocampista",
+        "photo": "1192051445_matteoli.jpg",
+        "id": "151",
+        "birthplace": "Nuoro"
+    },
+    {
+        "name": "Mattiello Federico",
+        "country": "Italia",
+        "date": "1995-07-14",
+        "role": "Difensore",
+        "photo": "",
+        "id": "712",
+        "birthplace": "Barga"
+    },
+    {
+        "name": "Mattrel Carlo",
+        "country": "Italia",
+        "date": "1937-04-14",
+        "role": "Portiere",
+        "photo": "1191400545_mattrel.jpg",
+        "id": "368",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Mayele Jason Nono",
+        "country": "Francia",
+        "date": "1971-01-04",
+        "role": "Attaccante",
+        "photo": "1192057284_mayele.jpg",
+        "id": "66",
+        "birthplace": "Kinshasa"
+    },
+    {
+        "name": "Mazzarri Walter",
+        "country": "Italia",
+        "date": "1961-10-01",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "274",
+        "birthplace": "San Vincenzo (LI)"
+    },
+    {
+        "name": "Mazzeo Vincenzo",
+        "country": "Italia",
+        "date": "1968-12-14",
+        "role": "Attaccante",
+        "photo": "1192054664_mazzeo.jpg",
+        "id": "101",
+        "birthplace": "Runderoth (Germania)"
+    },
+    {
+        "name": "Mazzitelli Luca",
+        "country": "Italia",
+        "date": "1995-11-15",
+        "role": "Centrocampista",
+        "photo": "1774371198_Luca-Mazzitelli-e1753895670244.jpg",
+        "id": "804",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Mazzucchi Enrico",
+        "country": "Italia",
+        "date": "1934-11-20",
+        "role": "Centrocampista",
+        "photo": "1191400597_mazzucchi.jpg",
+        "id": "383",
+        "birthplace": ""
+    },
+    {
+        "name": "Mboma Patrick Henri",
+        "country": "Camerun",
+        "date": "1970-11-15",
+        "role": "Attaccante",
+        "photo": "1192054686_mboma.jpg",
+        "id": "89",
+        "birthplace": "Douala"
+    },
+    {
+        "name": "Meanti Gianni",
+        "country": "Italia",
+        "date": "1935-02-14",
+        "role": "Attaccante",
+        "photo": "1252351259_meanti.jpg",
+        "id": "444",
+        "birthplace": "Crema"
+    },
+    {
+        "name": "Medri Filippo",
+        "country": "Italia",
+        "date": "1971-08-23",
+        "role": "Difensore",
+        "photo": "1192056505_medri.jpg",
+        "id": "74",
+        "birthplace": "Cesena (FC)"
+    },
+    {
+        "name": "Mei Massimiliano",
+        "country": "Italia",
+        "date": "1985-05-01",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "81",
+        "birthplace": "Lucca"
+    },
+    {
+        "name": "Melchiorri Federico",
+        "country": "Italia",
+        "date": "1987-01-06",
+        "role": "Attaccante",
+        "photo": "1515775137_melchiorri.jpg",
+        "id": "664",
+        "birthplace": "Treia"
+    },
+    {
+        "name": "Melis Emiliano",
+        "country": "Italia",
+        "date": "1979-03-03",
+        "role": "Attaccante-Seconda Punta",
+        "photo": "1192053533_melis.jpg",
+        "id": "48",
+        "birthplace": ""
+    },
+    {
+        "name": "Melis Flavio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "524",
+        "birthplace": ""
+    },
+    {
+        "name": "Melis Giorgio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "294",
+        "birthplace": ""
+    },
+    {
+        "name": "Mendy Paul",
+        "country": "Senegal",
+        "date": "2007-01-13",
+        "role": "Attaccante",
+        "photo": "paul_mendy.jpeg",
+        "id": "805",
+        "birthplace": "Rufisque"
+    },
+    {
+        "name": "Menichelli Gian Paolo",
+        "country": "Italia",
+        "date": "1938-06-29",
+        "role": "Attaccante",
+        "photo": "1191414676_menichelli.jpg",
+        "id": "350",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Mezzalira Giancarlo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "447",
+        "birthplace": ""
+    },
+    {
+        "name": "Miangue Senna",
+        "country": "Belgio",
+        "date": "1997-02-05",
+        "role": "Difensore-Terzino",
+        "photo": "1486312933_miangue.jpg",
+        "id": "686",
+        "birthplace": "Anversa (Bel)"
+    },
+    {
+        "name": "Miani Luciano",
+        "country": "Italia",
+        "date": "1956-02-14",
+        "role": "Centrocampista",
+        "photo": "1192050055_miani.jpg",
+        "id": "226",
+        "birthplace": "Chieti"
+    },
+    {
+        "name": "Micheloni Bruno",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "497",
+        "birthplace": ""
+    },
+    {
+        "name": "Milia Ugo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "473",
+        "birthplace": ""
+    },
+    {
+        "name": "Millico Vincenzo",
+        "country": "Italia",
+        "date": "2000-08-12",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "758",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Mina Yerri",
+        "country": "Colombia",
+        "date": "1994-09-23",
+        "role": "Centrocampista-Centrale",
+        "photo": "1773932175_mina.jpeg",
+        "id": "780",
+        "birthplace": "Guachen\u00c3\u00a9"
+    },
+    {
+        "name": "Minguzzi Vincenzo",
+        "country": "Italia",
+        "date": "1955-10-21",
+        "role": "Portiere",
+        "photo": "1192048780_minguzzi.jpg",
+        "id": "239",
+        "birthplace": "Russi (RA)"
+    },
+    {
+        "name": "Minotti Lorenzo",
+        "country": "Italia",
+        "date": "1967-02-08",
+        "role": "Difensore-Centrale",
+        "photo": "1250879156_minotti.jpg",
+        "id": "122",
+        "birthplace": "Cesena (FC)"
+    },
+    {
+        "name": "Miolli Vito Sante",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "489",
+        "birthplace": ""
+    },
+    {
+        "name": "Missiroli Simone",
+        "country": "Italia",
+        "date": "1986-05-23",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "572",
+        "birthplace": "Reggio Calabria"
+    },
+    {
+        "name": "Mistroni Ilario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "501",
+        "birthplace": ""
+    },
+    {
+        "name": "Mobili Stefano",
+        "country": "Italia",
+        "date": "1968-08-22",
+        "role": "Centrocampista",
+        "photo": "1192051540_mobili.jpg",
+        "id": "161",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Modesto Francois",
+        "country": "Francia",
+        "date": "1978-08-19",
+        "role": "Difensore-Terzino",
+        "photo": "1192055928_modesto.jpg",
+        "id": "30",
+        "birthplace": "Bastia"
+    },
+    {
+        "name": "Molinari Gianni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "487",
+        "birthplace": ""
+    },
+    {
+        "name": "Molino Luigi",
+        "country": "Italia",
+        "date": "1972-03-23",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "177",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Montesano Giampaolo",
+        "country": "Italia",
+        "date": "1958-08-06",
+        "role": "Centrocampista",
+        "photo": "1192050255_montesano.jpg",
+        "id": "225",
+        "birthplace": "Aulla (MS)"
+    },
+    {
+        "name": "Morelli Remo",
+        "country": "Italia",
+        "date": "1936-09-10",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "422",
+        "birthplace": ""
+    },
+    {
+        "name": "Morfeo Domenico",
+        "country": "Italia",
+        "date": "1976-01-16",
+        "role": "Fantasista",
+        "photo": "1192099456_morfeo.jpg",
+        "id": "94",
+        "birthplace": "Pescina (AQ)"
+    },
+    {
+        "name": "Morgia Ottavio",
+        "country": "Italia",
+        "date": "1920-09-18",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "498",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Moriero Francesco",
+        "country": "Italia",
+        "date": "1969-03-31",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192051797_moriero.jpg",
+        "id": "150",
+        "birthplace": "Lecce"
+    },
+    {
+        "name": "Moro Michele",
+        "country": "Italia",
+        "date": "1949-01-30",
+        "role": "Centrocampista",
+        "photo": "1191400730_moro.jpg",
+        "id": "366",
+        "birthplace": "Olbia (SS)"
+    },
+    {
+        "name": "Motta Alfredo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "522",
+        "birthplace": ""
+    },
+    {
+        "name": "Munari Gianni",
+        "country": "Italia",
+        "date": "1983-06-24",
+        "role": "Centrocampista",
+        "photo": "1484814204_MUNARI_CAGLIARI.jpg",
+        "id": "662",
+        "birthplace": "Sassuolo"
+    },
+    {
+        "name": "Mura Salvatore",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "273",
+        "birthplace": ""
+    },
+    {
+        "name": "Murru Nicola",
+        "country": "Italia",
+        "date": "1994-12-16",
+        "role": "Difensore",
+        "photo": "1356127501_nikola_murru.jpg",
+        "id": "614",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Mussino Domenico",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "503",
+        "birthplace": ""
+    },
+    {
+        "name": "Mutandwa Kingstone",
+        "country": "Zambia",
+        "date": "2003-01-05",
+        "role": "Attaccante",
+        "photo": "1773932237_mutandwa.jpeg",
+        "id": "782",
+        "birthplace": "Chibombo"
+    },
+    {
+        "name": "Muzzi Roberto",
+        "country": "Italia",
+        "date": "1971-09-21",
+        "role": "Attaccante",
+        "photo": "1603025058_muzzi.png",
+        "id": "103",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Nainggolan Radja",
+        "country": "Belgio",
+        "date": "1988-05-04",
+        "role": "Centrocampista",
+        "photo": "1356127568_nainggolan.jpg",
+        "id": "563",
+        "birthplace": "Anversa"
+    },
+    {
+        "name": "Nandez Acosta Nahitan Michel",
+        "country": "Uruguay",
+        "date": "1995-12-28",
+        "role": "Centrocampista",
+        "photo": "nandez.jpg",
+        "id": "715",
+        "birthplace": "Punta del Este"
+    },
+    {
+        "name": "Nanni Guido",
+        "country": "Italia",
+        "date": "1968-04-12",
+        "role": "Portiere",
+        "photo": "1192050898_nanni.jpg",
+        "id": "176",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Napoli Nicolo'",
+        "country": "Italia",
+        "date": "1962-02-07",
+        "role": "Difensore-Centrale",
+        "photo": "1192051659_napoli.jpg",
+        "id": "133",
+        "birthplace": "Palermo"
+    },
+    {
+        "name": "Nardini Mauro",
+        "country": "Italia",
+        "date": "1964-02-19",
+        "role": "Centrocampista",
+        "photo": "1192051558_nardini.jpg",
+        "id": "164",
+        "birthplace": "Massa"
+    },
+    {
+        "name": "Naretto Riccardo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "539",
+        "birthplace": ""
+    },
+    {
+        "name": "Nastasio Corrado",
+        "country": "Italia",
+        "date": "1946-01-31",
+        "role": "Attaccante",
+        "photo": "1191414714_nastasio.jpg",
+        "id": "351",
+        "birthplace": "Livorno"
+    },
+    {
+        "name": "Natale Luigi",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "301",
+        "birthplace": ""
+    },
+    {
+        "name": "Nebuloni Paolo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "474",
+        "birthplace": ""
+    },
+    {
+        "name": "Negri Marco",
+        "country": "Italia",
+        "date": "1970-10-27",
+        "role": "Attaccante",
+        "photo": "1192057311_negri.jpg",
+        "id": "63",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Nen&egrave; Da Silva Anderson Miguel",
+        "country": "Brasile",
+        "date": "1983-07-28",
+        "role": "Attaccante",
+        "photo": "1245783848_nene_anderson.jpg",
+        "id": "525",
+        "birthplace": "San Paolo"
+    },
+    {
+        "name": "Nene Claudio Olinto De Carvalho",
+        "country": "Brasile",
+        "date": "1942-02-01",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191454121_nene.jpg",
+        "id": "325",
+        "birthplace": "Santos"
+    },
+    {
+        "name": "Niccolai Comunardo",
+        "country": "Italia",
+        "date": "1946-12-15",
+        "role": "Difensore",
+        "photo": "1191400637_niccolai.jpg",
+        "id": "322",
+        "birthplace": "S. Lucia Uzzano (PT)"
+    },
+    {
+        "name": "Nobili Bruno",
+        "country": "Italia",
+        "date": "1949-10-27",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191414775_nobili.jpg",
+        "id": "338",
+        "birthplace": "Caracas (Venezuela)"
+    },
+    {
+        "name": "Novellini Adriano",
+        "country": "Italia",
+        "date": "1948-09-02",
+        "role": "Attaccante-Seconda Punta",
+        "photo": "1191414799_novellini.jpg",
+        "id": "333",
+        "birthplace": "Mariana Mantovana (MN)"
+    },
+    {
+        "name": "Nyathi David",
+        "country": "Sud Africa",
+        "date": "1969-03-22",
+        "role": "Difensore-Terzino",
+        "photo": "1192054763_nyathi.jpg",
+        "id": "100",
+        "birthplace": "Shatale"
+    },
+    {
+        "name": "O' Neill Dominguez Fabian Alberto",
+        "country": "Uruguay",
+        "date": "1973-10-14",
+        "role": "Fantasista",
+        "photo": "1192052816_o_neill.jpg",
+        "id": "49",
+        "birthplace": "Paso de los Torros"
+    },
+    {
+        "name": "Obert Adam",
+        "country": "Slovacchia",
+        "date": "2002-08-23",
+        "role": "Difensore",
+        "photo": "1773932282_obert.jpeg",
+        "id": "749",
+        "birthplace": "Bratislava (SLO)"
+    },
+    {
+        "name": "Occhipinti Leonardo",
+        "country": "Italia",
+        "date": "1960-08-11",
+        "role": "Centrocampista",
+        "photo": "1192050277_occhipinti.jpg",
+        "id": "235",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Oliva Gim\u00c3\u00a9nez Christian Gabriel",
+        "country": "Uruguay",
+        "date": "1996-06-01",
+        "role": "Centrocampista",
+        "photo": "1603137423_oliva.jpg",
+        "id": "714",
+        "birthplace": "Ciudad del Plata"
+    },
+    {
+        "name": "Oliveira Luis Airton Barroso",
+        "country": "Belgio",
+        "date": "1969-03-24",
+        "role": "Attaccante",
+        "photo": "1192051873_oliveira.jpg",
+        "id": "90",
+        "birthplace": "Maranhao Sao Luis"
+    },
+    {
+        "name": "Oliveira Tavares Adryan",
+        "country": "Brasile",
+        "date": "1994-08-10",
+        "role": "Attaccante",
+        "photo": "1390466040_adryan.jpg",
+        "id": "628",
+        "birthplace": "Rio De Janeiro"
+    },
+    {
+        "name": "Olsen Robin Patrick",
+        "country": "Svezia",
+        "date": "1990-01-08",
+        "role": "Portiere",
+        "photo": "",
+        "id": "718",
+        "birthplace": "Malmo (SVE)"
+    },
+    {
+        "name": "Oristanio Gaetano Pio",
+        "country": "Italia",
+        "date": "2002-09-28",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "773",
+        "birthplace": "Vallo Della Lucania"
+    },
+    {
+        "name": "Orlando Alessandro",
+        "country": "Italia",
+        "date": "1970-06-01",
+        "role": "Difensore-Terzino",
+        "photo": "1192056519_orlando.jpg",
+        "id": "77",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "Osellame Carlo",
+        "country": "Italia",
+        "date": "1951-11-10",
+        "role": "Centrocampista",
+        "photo": "1191414823_osellame.jpg",
+        "id": "283",
+        "birthplace": "Montebelluna (TV)"
+    },
+    {
+        "name": "Ounas Adam",
+        "country": "Francia",
+        "date": "1996-11-06",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "735",
+        "birthplace": "Chambray-l\u00c3\u00a8s-Tours"
+    },
+    {
+        "name": "Pacioni Gianluca",
+        "country": "Italia",
+        "date": "1969-01-31",
+        "role": "Difensore",
+        "photo": "1192051068_pacioni.jpg",
+        "id": "197",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Padoin Simone",
+        "country": "Italia",
+        "date": "1984-03-18",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "674",
+        "birthplace": "Gemona del Friuli"
+    },
+    {
+        "name": "Paja\u00c4\u008d Marko",
+        "country": "Croazia",
+        "date": "1995-05-11",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "677",
+        "birthplace": "Zagabria"
+    },
+    {
+        "name": "Palestra Marco",
+        "country": "Italia",
+        "date": "2005-03-03",
+        "role": "Difensore",
+        "photo": "1774214338_marco-palestra.jpg",
+        "id": "801",
+        "birthplace": "Buccinasco"
+    },
+    {
+        "name": "Pallanch Andrea",
+        "country": "Italia",
+        "date": "1964-09-01",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "217",
+        "birthplace": "Trento"
+    },
+    {
+        "name": "Palomino Jos\u00c3\u00a9 Luis",
+        "country": "Argentina",
+        "date": "1990-01-05",
+        "role": "Difensore-Centrale",
+        "photo": "1773932336_jose-luis-palomino-cagliari-2024-1724802277-146414.jpg",
+        "id": "784",
+        "birthplace": "San Miguel (Argentina)"
+    },
+    {
+        "name": "Paloschi Alberto",
+        "country": "Italia",
+        "date": "1990-01-04",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "720",
+        "birthplace": "Chiari"
+    },
+    {
+        "name": "Pancaro Giuseppe",
+        "country": "Italia",
+        "date": "1971-08-26",
+        "role": "Difensore-Terzino",
+        "photo": "1192051913_pancaro.jpg",
+        "id": "120",
+        "birthplace": "Cosenza"
+    },
+    {
+        "name": "Pani Claudio",
+        "country": "Italia",
+        "date": "1986-03-11",
+        "role": "Centrocampista",
+        "photo": "1192058445_pani_c.jpg",
+        "id": "27",
+        "birthplace": ""
+    },
+    {
+        "name": "Pani Massimiliano",
+        "country": "Italia",
+        "date": "1965-02-17",
+        "role": "Attaccante",
+        "photo": "1192049526_pani.jpg",
+        "id": "206",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Pantaleoni Mario",
+        "country": "Italia",
+        "date": "1931-06-18",
+        "role": "Centrocampista",
+        "photo": "1230920453_Pantaleoni.jpg",
+        "id": "488",
+        "birthplace": "Treviso"
+    },
+    {
+        "name": "Pantanelli Armando",
+        "country": "Italia",
+        "date": "1971-06-01",
+        "role": "Portiere",
+        "photo": "1192057575_pantanelli.jpg",
+        "id": "29",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Paolino Raffaele",
+        "country": "Italia",
+        "date": "1969-04-04",
+        "role": "Attaccante",
+        "photo": "1192051578_paolino.jpg",
+        "id": "184",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Papiri Stefano",
+        "country": "Italia",
+        "date": "1967-11-14",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "218",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Pappalardo Pietro",
+        "country": "Italia",
+        "date": "1964-12-30",
+        "role": "Portiere",
+        "photo": "",
+        "id": "231",
+        "birthplace": "Civitavecchia (ROMA)"
+    },
+    {
+        "name": "Paredi ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "612",
+        "birthplace": ""
+    },
+    {
+        "name": "Parise Ferdinando",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "429",
+        "birthplace": ""
+    },
+    {
+        "name": "Parola Andrea",
+        "country": "Italia",
+        "date": "1979-04-22",
+        "role": "Centrocampista",
+        "photo": "1192106837_parola.jpg",
+        "id": "405",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Pascolo Marco",
+        "country": "Svizzera",
+        "date": "1966-05-09",
+        "role": "Portiere",
+        "photo": "1192052937_pascolo.jpg",
+        "id": "118",
+        "birthplace": "Sion"
+    },
+    {
+        "name": "Pavoletti Leonardo",
+        "country": "Italia",
+        "date": "1988-11-28",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1504176279_pavoletti.jpg",
+        "id": "694",
+        "birthplace": "Livorno"
+    },
+    {
+        "name": "Peana Andrea",
+        "country": "Italia",
+        "date": "1986-12-02",
+        "role": "Difensore",
+        "photo": "1192058999_peana.jpg",
+        "id": "59",
+        "birthplace": "Alghero (SS)"
+    },
+    {
+        "name": "Pecoraro Scanio Marco",
+        "country": "Italia",
+        "date": "1962-12-24",
+        "role": "Centrocampista",
+        "photo": "1192050391_pecoraro_scanio.jpg",
+        "id": "223",
+        "birthplace": "Salerno"
+    },
+    {
+        "name": "Pedro da Silva Figueiredo Freitas Jos\u00e9",
+        "country": "Portogallo",
+        "date": "1997-06-06",
+        "role": "Difensore",
+        "photo": "1787901854_zepedro.jpg",
+        "id": "809",
+        "birthplace": ""
+    },
+    {
+        "name": "Pelizzoli Ivan",
+        "country": "Italia",
+        "date": "1980-11-18",
+        "role": "Portiere",
+        "photo": "1295295145_PelizzoliIvan.jpg",
+        "id": "571",
+        "birthplace": "Bergamo"
+    },
+    {
+        "name": "Pellegrini Luca",
+        "country": "Italia",
+        "date": "1999-03-07",
+        "role": "Difensore",
+        "photo": "",
+        "id": "706",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Pellegrini Massimo",
+        "country": "Italia",
+        "date": "1966-01-02",
+        "role": "Attaccante",
+        "photo": "1192108065_pellegrini.jpg",
+        "id": "222",
+        "birthplace": "Frascati (ROMA)"
+    },
+    {
+        "name": "Peloso Aldo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "536",
+        "birthplace": ""
+    },
+    {
+        "name": "Penalba Gabriel",
+        "country": "Argentina",
+        "date": "1984-09-23",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192059973_penalba.jpg",
+        "id": "378",
+        "birthplace": "Capital Federal"
+    },
+    {
+        "name": "Penedo Jaime",
+        "country": "Panama",
+        "date": "1981-09-26",
+        "role": "Portiere",
+        "photo": "1527751114_penedo.jpeg",
+        "id": "699",
+        "birthplace": "Panama"
+    },
+    {
+        "name": "Pepe Simone",
+        "country": "Italia",
+        "date": "1983-08-30",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1192060043_pepe.jpg",
+        "id": "379",
+        "birthplace": "Albano Laziale (ROMA)"
+    },
+    {
+        "name": "Peralta Horacio",
+        "country": "Uruguay",
+        "date": "1982-06-03",
+        "role": "Attaccante",
+        "photo": "1192058460_peralta.jpg",
+        "id": "25",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Pereiro Gast\u00c3\u00b3n",
+        "country": "Uruguay",
+        "date": "1995-06-11",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "721",
+        "birthplace": "Montevideo"
+    },
+    {
+        "name": "Perico Gabriele",
+        "country": "Italia",
+        "date": "1984-03-11",
+        "role": "Difensore",
+        "photo": "1356127909_gabriele_periko.jpg",
+        "id": "569",
+        "birthplace": "Bergamo"
+    },
+    {
+        "name": "Perra Massimo",
+        "country": "Italia",
+        "date": "1976-04-02",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "166",
+        "birthplace": "Quartu Sant'Elena (CA)"
+    },
+    {
+        "name": "Persico Piero",
+        "country": "Italia",
+        "date": "1930-01-02",
+        "role": "Portiere",
+        "photo": "persico.jpg",
+        "id": "463",
+        "birthplace": "Bergamo"
+    },
+    {
+        "name": "Petagna Andrea",
+        "country": "Italia",
+        "date": "1995-06-30",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "777",
+        "birthplace": "Trieste"
+    },
+    {
+        "name": "Petta Vittorio",
+        "country": "Italia",
+        "date": "1952-09-14",
+        "role": "Centrocampista-Laterale",
+        "photo": "1387889208_petta.jpg",
+        "id": "626",
+        "birthplace": "Olbia"
+    },
+    {
+        "name": "Piaceri Giampaolo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "446",
+        "birthplace": ""
+    },
+    {
+        "name": "Pianta Pietro",
+        "country": "Italia",
+        "date": "1940-10-02",
+        "role": "Portiere",
+        "photo": "1191400795_pianta.jpg",
+        "id": "360",
+        "birthplace": "Pontelongo (PD)"
+    },
+    {
+        "name": "Picciafuoco Armando",
+        "country": "Italia",
+        "date": "1943-02-04",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "424",
+        "birthplace": "San Feliciano di Magione (PC)"
+    },
+    {
+        "name": "Piccioni Mario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "598",
+        "birthplace": ""
+    },
+    {
+        "name": "Piccoli Roberto",
+        "country": "Italia",
+        "date": "2001-01-27",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1773932383_Roberto-Piccoli.jpg",
+        "id": "788",
+        "birthplace": "Bergamo"
+    },
+    {
+        "name": "Pignoni Silvio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "494",
+        "birthplace": ""
+    },
+    {
+        "name": "Pileggi Danilo",
+        "country": "Italia",
+        "date": "1958-01-18",
+        "role": "Centrocampista",
+        "photo": "1192048510_pileggi.jpg",
+        "id": "271",
+        "birthplace": "Nicastro (CZ)"
+    },
+    {
+        "name": "Pinardi Alex",
+        "country": "Italia",
+        "date": "1980-09-05",
+        "role": "Centrocampista",
+        "photo": "1295625906_pinardi.jpg",
+        "id": "567",
+        "birthplace": "Chiari (BS)"
+    },
+    {
+        "name": "Pineda Mauricio Hector",
+        "country": "Argentina",
+        "date": "1975-07-13",
+        "role": "Difensore",
+        "photo": "1192057770_pineda.jpg",
+        "id": "50",
+        "birthplace": ""
+    },
+    {
+        "name": "Pinilla Ferrera Mauricio Ricardo",
+        "country": "Cile",
+        "date": "1984-02-04",
+        "role": "Attaccante",
+        "photo": "1356127939_pinilla.jpg",
+        "id": "615",
+        "birthplace": "Santiago del Cile"
+    },
+    {
+        "name": "Pinna Sebastiano",
+        "country": "Italia",
+        "date": "1971-04-09",
+        "role": "Centrocampista",
+        "photo": "1192056536_pinna.jpg",
+        "id": "31",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Pinna Simone",
+        "country": "Italia",
+        "date": "1997-10-17",
+        "role": "Difensore",
+        "photo": "",
+        "id": "717",
+        "birthplace": "Oristano"
+    },
+    {
+        "name": "Pintus Nicola",
+        "country": "Italia",
+        "date": "2005-05-25",
+        "role": "Difensore",
+        "photo": "",
+        "id": "792",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Piovani Gianpietro",
+        "country": "Italia",
+        "date": "1968-06-12",
+        "role": "Attaccante",
+        "photo": "1192051088_piovani.jpg",
+        "id": "207",
+        "birthplace": "Orzinuovi (BS)"
+    },
+    {
+        "name": "Piras Enrico",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "300",
+        "birthplace": ""
+    },
+    {
+        "name": "Piras Luigi",
+        "country": "Italia",
+        "date": "1954-10-22",
+        "role": "Attaccante",
+        "photo": "1602959960_luigi-piras.png",
+        "id": "221",
+        "birthplace": "Selargius (CA)"
+    },
+    {
+        "name": "Pisacane Fabio",
+        "country": "Italia",
+        "date": "1986-01-28",
+        "role": "Difensore",
+        "photo": "1453189746_pisacane.jpg",
+        "id": "658",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Pisano Bruno",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "597",
+        "birthplace": ""
+    },
+    {
+        "name": "Pisano Francesco",
+        "country": "Italia",
+        "date": "1986-04-29",
+        "role": "Difensore",
+        "photo": "1192058474_pisano.jpg",
+        "id": "22",
+        "birthplace": "CAGLIARI"
+    },
+    {
+        "name": "Pisanu Andrea",
+        "country": "Italia",
+        "date": "1982-01-15",
+        "role": "Attaccante",
+        "photo": "1192054819_pisanu.jpg",
+        "id": "106",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Piscedda Mario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "540",
+        "birthplace": ""
+    },
+    {
+        "name": "Pisicchio Francesco Antonio",
+        "country": "Italia",
+        "date": "1970-06-13",
+        "role": "Centrocampista",
+        "photo": "1250879186_pisicchio.jpg",
+        "id": "194",
+        "birthplace": "Lavello (PZ)"
+    },
+    {
+        "name": "Pison Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "516",
+        "birthplace": ""
+    },
+    {
+        "name": "Pistella Andrea",
+        "country": "Italia",
+        "date": "1966-04-22",
+        "role": "Attaccante",
+        "photo": "1192051702_pistella.jpg",
+        "id": "163",
+        "birthplace": "Racolano (SI)"
+    },
+    {
+        "name": "Pitta Sebastiano",
+        "country": "Italia",
+        "date": "1975-04-06",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "171",
+        "birthplace": ""
+    },
+    {
+        "name": "Podda Salvatore",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "430",
+        "birthplace": ""
+    },
+    {
+        "name": "Poletti Fabrizio",
+        "country": "Italia",
+        "date": "1943-07-13",
+        "role": "Difensore-Terzino",
+        "photo": "1191414894_poletti.jpg",
+        "id": "336",
+        "birthplace": "Gavello (FE)"
+    },
+    {
+        "name": "Poli Cesare",
+        "country": "Italia",
+        "date": "1945-01-06",
+        "role": "Difensore-Terzino",
+        "photo": "1191414916_poli.jpg",
+        "id": "330",
+        "birthplace": "Breganze (VI)"
+    },
+    {
+        "name": "Poli Fabio",
+        "country": "Italia",
+        "date": "1962-11-22",
+        "role": "Centrocampista",
+        "photo": "1192048532_poli_f.jpg",
+        "id": "251",
+        "birthplace": "S.Benedetto V. di Sambro (BO)"
+    },
+    {
+        "name": "Poli Maurizio",
+        "country": "Italia",
+        "date": "1964-01-14",
+        "role": "Centrocampista",
+        "photo": "1192051227_poli_m.jpg",
+        "id": "193",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Pozzi Piero",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "520",
+        "birthplace": ""
+    },
+    {
+        "name": "Prati Matteo",
+        "country": "Italia",
+        "date": "2003-12-28",
+        "role": "Centrocampista",
+        "photo": "1773932463_prati.jpg",
+        "id": "779",
+        "birthplace": "Ravenna"
+    },
+    {
+        "name": "Prelec Nik",
+        "country": "Slovenia",
+        "date": "2001-06-01",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "768",
+        "birthplace": "Maribor"
+    },
+    {
+        "name": "Provitali Fabrizio",
+        "country": "Italia",
+        "date": "1968-05-15",
+        "role": "Attaccante",
+        "photo": "1192051109_provitali.jpg",
+        "id": "183",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Puddu Roberto",
+        "country": "Italia",
+        "date": "1987-05-24",
+        "role": "Attaccante",
+        "photo": "1192060072_puddu.jpg",
+        "id": "393",
+        "birthplace": "Terralba (OR)"
+    },
+    {
+        "name": "Pulga Ivo",
+        "country": "Italia",
+        "date": "1964-06-20",
+        "role": "Centrocampista",
+        "photo": "1192050295_pulga.jpg",
+        "id": "186",
+        "birthplace": "Modena"
+    },
+    {
+        "name": "Pusceddu Vittorio",
+        "country": "Italia",
+        "date": "1964-02-12",
+        "role": "Difensore-Terzino",
+        "photo": "1192048956_pusceddu.jpg",
+        "id": "134",
+        "birthplace": "Buggerru (CA)"
+    },
+    {
+        "name": "Quagliozzi Roberto",
+        "country": "Italia",
+        "date": "1952-01-26",
+        "role": "Centrocampista",
+        "photo": "1191414944_quagliozzi.jpg",
+        "id": "248",
+        "birthplace": "Pontecorvo (FR)"
+    },
+    {
+        "name": "Racchetta Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "317",
+        "birthplace": ""
+    },
+    {
+        "name": "Radunovic Boris",
+        "country": "Serbia",
+        "date": "1996-05-26",
+        "role": "Portiere",
+        "photo": "",
+        "id": "744",
+        "birthplace": "Belgrado"
+    },
+    {
+        "name": "Ragatzu Daniele",
+        "country": "Italia",
+        "date": "1991-09-21",
+        "role": "Attaccante",
+        "photo": "1220782837_ragatzu.jpg",
+        "id": "459",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Ragazzo Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "529",
+        "birthplace": ""
+    },
+    {
+        "name": "Rampini Giuseppe",
+        "country": "Italia",
+        "date": "1939-08-15",
+        "role": "Attaccante",
+        "photo": "1230055830_Rampini.jpg",
+        "id": "436",
+        "birthplace": "Manerbio (BS)"
+    },
+    {
+        "name": "Ranalli Christian",
+        "country": "Italia",
+        "date": "1979-04-12",
+        "role": "Attaccante",
+        "photo": "1250879206_ranalli.jpg",
+        "id": "53",
+        "birthplace": ""
+    },
+    {
+        "name": "Raterink Othniel",
+        "country": "Olanda",
+        "date": "2006-04-07",
+        "role": "Difensore",
+        "photo": "",
+        "id": "808",
+        "birthplace": "Winterswijk"
+    },
+    {
+        "name": "Ravot Antonio",
+        "country": "Italia",
+        "date": "1960-02-16",
+        "role": "Centrocampista",
+        "photo": "1191414971_ravot.jpg",
+        "id": "252",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Redolfi Carlo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "521",
+        "birthplace": ""
+    },
+    {
+        "name": "Regalia Carlo",
+        "country": "Italia",
+        "date": "1934-03-01",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "465",
+        "birthplace": ""
+    },
+    {
+        "name": "Reginato Adriano",
+        "country": "Italia",
+        "date": "1937-12-19",
+        "role": "Portiere",
+        "photo": "1191415009_reginato.jpg",
+        "id": "339",
+        "birthplace": "Carbonera (TV)"
+    },
+    {
+        "name": "Restelli Maurizio",
+        "country": "Italia",
+        "date": "1954-02-04",
+        "role": "Centrocampista",
+        "photo": "1191415031_restelli.jpg",
+        "id": "272",
+        "birthplace": "Montebelluna (TV)"
+    },
+    {
+        "name": "Reverchon Vincenzo",
+        "country": "Italia",
+        "date": "1927-08-08",
+        "role": "Portiere",
+        "photo": "1229182092_Reverchon.jpg",
+        "id": "486",
+        "birthplace": "Aosta"
+    },
+    {
+        "name": "Ricci Marco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "287",
+        "birthplace": ""
+    },
+    {
+        "name": "Riva Luigi",
+        "country": "Italia",
+        "date": "1944-11-07",
+        "role": "Attaccante",
+        "photo": "20200929-gigiriva.jpg",
+        "id": "310",
+        "birthplace": "Leggiuno (VA)"
+    },
+    {
+        "name": "Rizzo Francesco",
+        "country": "Italia",
+        "date": "1943-05-30",
+        "role": "Attaccante",
+        "photo": "1191400833_rizzo.jpg",
+        "id": "367",
+        "birthplace": "Rovito (CS)"
+    },
+    {
+        "name": "Rocco Pasquale Domenico",
+        "country": "Italia",
+        "date": "1970-10-11",
+        "role": "Centrocampista",
+        "photo": "1192051259_rocco.jpg",
+        "id": "185",
+        "birthplace": "Paderno Dugnano (MI)"
+    },
+    {
+        "name": "Roccotelli Giovanni",
+        "country": "Italia",
+        "date": "1952-05-14",
+        "role": "Centrocampista",
+        "photo": "1191415059_roccotelli.jpg",
+        "id": "312",
+        "birthplace": "Bari"
+    },
+    {
+        "name": "Rodr\u00edguez Juan",
+        "country": "Uruguay",
+        "date": "2005-05-30",
+        "role": "Difensore",
+        "photo": "1787901441_rodriguez.jpeg",
+        "id": "807",
+        "birthplace": ""
+    },
+    {
+        "name": "Roffi Renato",
+        "country": "Italia",
+        "date": "1951-06-02",
+        "role": "Difensore",
+        "photo": "1191415087_roffi.jpg",
+        "id": "296",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "Rog Marko",
+        "country": "Croazia",
+        "date": "1995-07-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "713",
+        "birthplace": "Vara\u00c5\u00bedin"
+    },
+    {
+        "name": "Romagna Filippo",
+        "country": "Italia",
+        "date": "1997-05-26",
+        "role": "Difensore",
+        "photo": "1502353119_romagna-cagliari-primo-piano-aritzo-luglio-2017.jpg",
+        "id": "692",
+        "birthplace": "Fano"
+    },
+    {
+        "name": "Romano Alessandro Gianni",
+        "country": "Svizzera",
+        "date": "2006-06-17",
+        "role": "Centrocampista",
+        "photo": "1787901949_romano.jpg",
+        "id": "816",
+        "birthplace": "Winterthur"
+    },
+    {
+        "name": "Romero Luis Alberto",
+        "country": "Uruguay",
+        "date": "1968-06-15",
+        "role": "Attaccante",
+        "photo": "1192052979_romero.jpg",
+        "id": "413",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Ronconi Renato",
+        "country": "Italia",
+        "date": "1939-11-09",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "409",
+        "birthplace": "Cesena (FO)"
+    },
+    {
+        "name": "Ronzi Ezio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "538",
+        "birthplace": ""
+    },
+    {
+        "name": "Rosa Massimiliano",
+        "country": "Italia",
+        "date": "1970-10-12",
+        "role": "Difensore",
+        "photo": "1250879243_rosa.jpg",
+        "id": "190",
+        "birthplace": "Venezia"
+    },
+    {
+        "name": "Rosano Sebastian Escobar",
+        "country": "Uruguay",
+        "date": "1987-05-25",
+        "role": "Centrocampista-Laterale",
+        "photo": "",
+        "id": "455",
+        "birthplace": "Rivera (URU)"
+    },
+    {
+        "name": "Rossettini Luca",
+        "country": "Italia",
+        "date": "1985-05-09",
+        "role": "Difensore",
+        "photo": "1356127966_rossettini.jpg",
+        "id": "616",
+        "birthplace": "Padova"
+    },
+    {
+        "name": "Rossi Guerrino",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "437",
+        "birthplace": ""
+    },
+    {
+        "name": "Rovellini Massimo",
+        "country": "Italia",
+        "date": "1961-11-06",
+        "role": "Centrocampista",
+        "photo": "1192048581_rovellini.jpg",
+        "id": "250",
+        "birthplace": "Legnano (MI)"
+    },
+    {
+        "name": "Rugani Daniele",
+        "country": "Italia",
+        "date": "1994-07-29",
+        "role": "Difensore-Centrale",
+        "photo": "",
+        "id": "738",
+        "birthplace": "Lucca"
+    },
+    {
+        "name": "Ruzittu Marco",
+        "country": "Italia",
+        "date": "1991-06-15",
+        "role": "Portiere",
+        "photo": "",
+        "id": "531",
+        "birthplace": "Santa Teresa di Gallura (SS)"
+    },
+    {
+        "name": "Sabato Rocco",
+        "country": "Italia",
+        "date": "1982-04-19",
+        "role": "Difensore",
+        "photo": "1192058161_sabato.jpg",
+        "id": "9",
+        "birthplace": "POTENZA"
+    },
+    {
+        "name": "Sacchi Maurizio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "261",
+        "birthplace": ""
+    },
+    {
+        "name": "Sacco ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "613",
+        "birthplace": ""
+    },
+    {
+        "name": "Salamon Bartosz",
+        "country": "Polonia",
+        "date": "1991-05-01",
+        "role": "Difensore-Centrale",
+        "photo": "1469641089_salamon.jpeg",
+        "id": "669",
+        "birthplace": "Poznan"
+    },
+    {
+        "name": "Salerno Giuseppe",
+        "country": "Italia",
+        "date": "1930-08-06",
+        "role": "Portiere",
+        "photo": "",
+        "id": "440",
+        "birthplace": "Carlentini (SR)"
+    },
+    {
+        "name": "Sampaio Rui",
+        "country": "Portogallo",
+        "date": "1987-05-29",
+        "role": "Centrocampista",
+        "photo": "1315806748_sampaio.jpg",
+        "id": "584",
+        "birthplace": "Vila Pouca de Aguiar (POR)"
+    },
+    {
+        "name": "Samu Giuseppe",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "547",
+        "birthplace": ""
+    },
+    {
+        "name": "Sanna Giovanni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "467",
+        "birthplace": ""
+    },
+    {
+        "name": "Sanna Giuseppe",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "605",
+        "birthplace": ""
+    },
+    {
+        "name": "Sanna Marco",
+        "country": "Italia",
+        "date": "1969-12-27",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192052376_sanna.jpg",
+        "id": "111",
+        "birthplace": "Sassari (SS)"
+    },
+    {
+        "name": "Santagostino Umberto",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "491",
+        "birthplace": ""
+    },
+    {
+        "name": "Santarelli Attilio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "492",
+        "birthplace": ""
+    },
+    {
+        "name": "Santelli Sergio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "438",
+        "birthplace": ""
+    },
+    {
+        "name": "Santon Bruno",
+        "country": "Italia",
+        "date": "1942-06-25",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "421",
+        "birthplace": "Marghera (VE)"
+    },
+    {
+        "name": "Sau Marco",
+        "country": "Italia",
+        "date": "1987-11-03",
+        "role": "Attaccante",
+        "photo": "1356127992_marco_sau.jpg",
+        "id": "617",
+        "birthplace": "Sorgono (NU)"
+    },
+    {
+        "name": "Saurini Giampaolo",
+        "country": "Italia",
+        "date": "1968-11-13",
+        "role": "Attaccante",
+        "photo": "1192058595_saurini.jpg",
+        "id": "220",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Savigni Giovanni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "439",
+        "birthplace": ""
+    },
+    {
+        "name": "Scarpi Alessio",
+        "country": "Italia",
+        "date": "1973-04-19",
+        "role": "Portiere",
+        "photo": "1192052617_scarpi.jpg",
+        "id": "69",
+        "birthplace": "Jesolo (VE)"
+    },
+    {
+        "name": "Schiavoni Antonio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "482",
+        "birthplace": ""
+    },
+    {
+        "name": "Schinardi Gianpaolo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "603",
+        "birthplace": ""
+    },
+    {
+        "name": "Scuffet Simone",
+        "country": "Italia",
+        "date": "1996-05-31",
+        "role": "Portiere",
+        "photo": "1773932522_scuffet.jpg",
+        "id": "769",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "Scugugia Gian Battista",
+        "country": "Italia",
+        "date": "1970-10-07",
+        "role": "Difensore",
+        "photo": "1192053004_scugugia.jpg",
+        "id": "108",
+        "birthplace": "Olbia (SS)"
+    },
+    {
+        "name": "Segato Armando",
+        "country": "Italia",
+        "date": "1930-05-03",
+        "role": "Centrocampista",
+        "photo": "1253039773_SEGATO.jpg",
+        "id": "550",
+        "birthplace": "Vicenza"
+    },
+    {
+        "name": "Selvaggi Franco",
+        "country": "Italia",
+        "date": "1953-05-15",
+        "role": "Attaccante",
+        "photo": "1191415143_selvaggi.jpg",
+        "id": "284",
+        "birthplace": "Pomarico (MT)"
+    },
+    {
+        "name": "Semedo Morerira Jos\u00e8 Vitor",
+        "country": "Portogallo",
+        "date": "1985-01-11",
+        "role": "Difensore-Centrale",
+        "photo": "1192060100_semedo.jpg",
+        "id": "376",
+        "birthplace": "Setubal"
+    },
+    {
+        "name": "Sequi Roberto",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "318",
+        "birthplace": ""
+    },
+    {
+        "name": "Serone Roberto",
+        "country": "Italia",
+        "date": "1925-06-30",
+        "role": "Attaccante",
+        "photo": "1258567278_02 001.jpg",
+        "id": "526",
+        "birthplace": "Trino ( Vercelli )"
+    },
+    {
+        "name": "Serra Federico",
+        "country": "Italia",
+        "date": "1997-12-09",
+        "role": "Attaccante",
+        "photo": "1486312504_serra.png",
+        "id": "685",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Serradimigni Umberto",
+        "country": "Italia",
+        "date": "1931-11-30",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "418",
+        "birthplace": "Sassari"
+    },
+    {
+        "name": "Servetto Francesco",
+        "country": "Italia",
+        "date": "1918-12-04",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "551",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Sesler Silvano",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "556",
+        "birthplace": ""
+    },
+    {
+        "name": "Shala Rijat",
+        "country": "Svizzera",
+        "date": "1983-09-26",
+        "role": "Centrocampista",
+        "photo": "1192106859_shala.jpg",
+        "id": "406",
+        "birthplace": "Prizren (SRB)"
+    },
+    {
+        "name": "Sherri Alen",
+        "country": "Italia",
+        "date": "1997-12-15",
+        "role": "Portiere",
+        "photo": "",
+        "id": "789",
+        "birthplace": "Scutari (ALB)"
+    },
+    {
+        "name": "Shomurodov Eldor",
+        "country": "Uzbekistan",
+        "date": "1995-06-29",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "774",
+        "birthplace": "Jarkurgan"
+    },
+    {
+        "name": "Silvestri Marco",
+        "country": "Italia",
+        "date": "1991-03-02",
+        "role": "Portiere",
+        "photo": "1398612223_silvestri.jpg",
+        "id": "631",
+        "birthplace": " Castelnovo ne' Monti"
+    },
+    {
+        "name": "Simeoli Mauro",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "445",
+        "birthplace": ""
+    },
+    {
+        "name": "Simeone Baldini  Giovanni Pablo",
+        "country": "Argentina",
+        "date": "1995-07-05",
+        "role": "Attaccante",
+        "photo": "1603137129_simeone.jpg",
+        "id": "719",
+        "birthplace": "Buenos Aires (ARG)"
+    },
+    {
+        "name": "Sivakov Mikhail",
+        "country": "Bielorussia",
+        "date": "1988-01-16",
+        "role": "Centrocampista",
+        "photo": "1236363493_sivakov.jpg",
+        "id": "495",
+        "birthplace": "Minsk"
+    },
+    {
+        "name": "Soldani Valerio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "530",
+        "birthplace": ""
+    },
+    {
+        "name": "Solinas Simone",
+        "country": "Italia",
+        "date": "1996-03-03",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "627",
+        "birthplace": "Sassari"
+    },
+    {
+        "name": "Song Han Kwang",
+        "country": "Corea Del Nord",
+        "date": "1998-09-11",
+        "role": "Attaccante",
+        "photo": "1491148982_song.jpeg",
+        "id": "687",
+        "birthplace": "Pyongyang"
+    },
+    {
+        "name": "Soro Giovanni",
+        "country": "Italia",
+        "date": "1980-08-08",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "75",
+        "birthplace": "Olbia (SS)"
+    },
+    {
+        "name": "Sorrentino Roberto",
+        "country": "Italia",
+        "date": "1955-08-14",
+        "role": "Portiere",
+        "photo": "1192049657_sorrentino.jpg",
+        "id": "209",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Sottil Riccardo",
+        "country": "Italia",
+        "date": "1999-06-03",
+        "role": "Centrocampista",
+        "photo": "1602575947_sottil.jpeg",
+        "id": "734",
+        "birthplace": "Torino"
+    },
+    {
+        "name": "Spinosi Enrico",
+        "country": "Italia",
+        "date": "1937-07-22",
+        "role": "Difensore",
+        "photo": "1191400868_spinosi.jpg",
+        "id": "381",
+        "birthplace": ""
+    },
+    {
+        "name": "Srna  Darijo",
+        "country": "Croazia",
+        "date": "1982-05-01",
+        "role": "Difensore-Terzino",
+        "photo": "",
+        "id": "700",
+        "birthplace": "Metkovi\u00c4\u2021"
+    },
+    {
+        "name": "Stefanelli Roberto",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "441",
+        "birthplace": ""
+    },
+    {
+        "name": "Sterchele Giorgio",
+        "country": "Italia",
+        "date": "1970-01-08",
+        "role": "Portiere",
+        "photo": "1192053080_sterchele.jpg",
+        "id": "119",
+        "birthplace": "Schio (VI)"
+    },
+    {
+        "name": "Stocco Aldo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "527",
+        "birthplace": ""
+    },
+    {
+        "name": "Storari Marco",
+        "country": "Italia",
+        "date": "1977-01-07",
+        "role": "Portiere",
+        "photo": "1213990468_storari.jpg",
+        "id": "451",
+        "birthplace": "Pisa"
+    },
+    {
+        "name": "Strootman Kevin",
+        "country": "Olanda",
+        "date": "1990-02-13",
+        "role": "Centrocampista-Centrale",
+        "photo": "",
+        "id": "742",
+        "birthplace": "Ridderkerk"
+    },
+    {
+        "name": "Suazo David",
+        "country": "Honduras",
+        "date": "1979-11-05",
+        "role": "Attaccante",
+        "photo": "1602961071_suazo.jpg",
+        "id": "19",
+        "birthplace": "SAN PEDRO (HON)"
+    },
+    {
+        "name": "Sulcis Giovanni",
+        "country": "Italia",
+        "date": "1975-06-17",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192055959_sulcis.jpg",
+        "id": "64",
+        "birthplace": "Bosa (NU)"
+    },
+    {
+        "name": "Sulemana Kakari Ibrahim",
+        "country": "Ghana",
+        "date": "2003-05-22",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "771",
+        "birthplace": "Sunyani (GHA)"
+    },
+    {
+        "name": "Sulev Ivan",
+        "country": "Bulgaria",
+        "date": "2006-09-11",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "815",
+        "birthplace": "Plovdiv"
+    },
+    {
+        "name": "Sulis Giovanni",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Portiere",
+        "photo": "",
+        "id": "511",
+        "birthplace": ""
+    },
+    {
+        "name": "Tabanelli Andrea",
+        "country": "Italia",
+        "date": "1990-02-02",
+        "role": "Centrocampista",
+        "photo": "1390893882_tabanelli.jpg",
+        "id": "629",
+        "birthplace": "Ravenna"
+    },
+    {
+        "name": "Taccola Mirko",
+        "country": "Italia",
+        "date": "1970-08-14",
+        "role": "Centrocampista",
+        "photo": "1192053166_taccola.jpg",
+        "id": "123",
+        "birthplace": "Calci (PI)"
+    },
+    {
+        "name": "Tachtsid\u00c4\u00abs Panagi\u00c5\u008dt\u00c4\u00abs",
+        "country": "Grecia",
+        "date": "1991-02-15",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "681",
+        "birthplace": "Nauplia"
+    },
+    {
+        "name": "Talevi Antonio",
+        "country": "Italia",
+        "date": "1962-01-30",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "275",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Tampucci Moriano",
+        "country": "Italia",
+        "date": "1944-07-15",
+        "role": "Portiere",
+        "photo": "",
+        "id": "353",
+        "birthplace": "Collesalvetti (LI)"
+    },
+    {
+        "name": "Tavola Roberto",
+        "country": "Italia",
+        "date": "1957-08-07",
+        "role": "Centrocampista",
+        "photo": "1191415176_tavola.jpg",
+        "id": "288",
+        "birthplace": "Pescate (CO)"
+    },
+    {
+        "name": "Tejera Marcos Marcelo",
+        "country": "Uruguay",
+        "date": "1973-08-06",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "160",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Tello Andres",
+        "country": "Colombia",
+        "date": "1996-09-06",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "667",
+        "birthplace": "Medellin"
+    },
+    {
+        "name": "Terzolo Ferdinando",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "586",
+        "birthplace": ""
+    },
+    {
+        "name": "Th\u00c3\u00a9r\u00c3\u00a9au Cyril",
+        "country": "Francia",
+        "date": "1983-04-24",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "705",
+        "birthplace": "Privas"
+    },
+    {
+        "name": "Tiberi Sandro",
+        "country": "Italia",
+        "date": "1938-11-11",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "370",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Tiddia Mario",
+        "country": "Italia",
+        "date": "1936-05-05",
+        "role": "Difensore",
+        "photo": "1191400980_tiddia.jpg",
+        "id": "363",
+        "birthplace": "Sarroch"
+    },
+    {
+        "name": "Tilloni ",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Difensore",
+        "photo": "",
+        "id": "593",
+        "birthplace": ""
+    },
+    {
+        "name": "Tinkler Eric",
+        "country": "Sud Africa",
+        "date": "1970-07-30",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192053185_tinkler.jpg",
+        "id": "126",
+        "birthplace": "Johannesburg"
+    },
+    {
+        "name": "Todde Fabio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "292",
+        "birthplace": ""
+    },
+    {
+        "name": "Tomasig Luca",
+        "country": "Italia",
+        "date": "1983-03-11",
+        "role": "Portiere",
+        "photo": "1192059028_tomasig.jpg",
+        "id": "60",
+        "birthplace": "Gorizia"
+    },
+    {
+        "name": "Tomasini Giuseppe",
+        "country": "Italia",
+        "date": "1946-09-28",
+        "role": "Difensore",
+        "photo": "1191415217_tomasini.jpg",
+        "id": "311",
+        "birthplace": "Palazzolo sull'Oglio"
+    },
+    {
+        "name": "Torbidoni Steven",
+        "country": "Italia",
+        "date": "1975-05-26",
+        "role": "Difensore",
+        "photo": "",
+        "id": "415",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Torre Giovanni",
+        "country": "Italia",
+        "date": "1955-05-28",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "331",
+        "birthplace": "Catania"
+    },
+    {
+        "name": "Torricelli Franco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "560",
+        "birthplace": ""
+    },
+    {
+        "name": "Torriglia Angelo",
+        "country": "Italia",
+        "date": "1926-08-02",
+        "role": "Centrocampista",
+        "photo": "1240496251_Torriglia.jpg",
+        "id": "505",
+        "birthplace": "Tortona"
+    },
+    {
+        "name": "Torriglia Danilo",
+        "country": "Italia",
+        "date": "1936-09-20",
+        "role": "Attaccante",
+        "photo": "1191400957_torriglia.jpg",
+        "id": "408",
+        "birthplace": "Terni"
+    },
+    {
+        "name": "Tovalieri Sandro",
+        "country": "Italia",
+        "date": "1965-02-25",
+        "role": "Attaccante-Prima Punta",
+        "photo": "1191454298_tovalieri.bmp",
+        "id": "131",
+        "birthplace": "Pomezia (ROMA)"
+    },
+    {
+        "name": "Tramoni Matt\u00c3\u00a9o",
+        "country": "Francia",
+        "date": "2000-01-20",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "733",
+        "birthplace": "Ajaccio"
+    },
+    {
+        "name": "Trepy Yael",
+        "country": "Francia",
+        "date": "2006-05-20",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "806",
+        "birthplace": ""
+    },
+    {
+        "name": "Tribuna Francesco Paolo",
+        "country": "Italia",
+        "date": "1977-03-11",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "165",
+        "birthplace": "Ficarazzi (PA)"
+    },
+    {
+        "name": "Tripaldelli Alessandro",
+        "country": "Italia",
+        "date": "1999-02-09",
+        "role": "Difensore-Terzino",
+        "photo": "1602574868_Tripaldelli-696x385.jpg",
+        "id": "729",
+        "birthplace": "Napoli"
+    },
+    {
+        "name": "Turchi Giorgio",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "443",
+        "birthplace": ""
+    },
+    {
+        "name": "Urgias Gianfranco",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "316",
+        "birthplace": ""
+    },
+    {
+        "name": "Uribe Julio Cesar",
+        "country": "Peru",
+        "date": "1958-05-09",
+        "role": "Centrocampista",
+        "photo": "1192048605_uribe.jpg",
+        "id": "247",
+        "birthplace": "Lima (Peru)"
+    },
+    {
+        "name": "Valentini Mauro",
+        "country": "Italia",
+        "date": "1964-01-04",
+        "role": "Difensore",
+        "photo": "1192048926_valentini.jpg",
+        "id": "189",
+        "birthplace": "Viterbo"
+    },
+    {
+        "name": "Valeri Mario",
+        "country": "Italia",
+        "date": "1949-09-13",
+        "role": "Difensore",
+        "photo": "1191415249_valeri.jpg",
+        "id": "306",
+        "birthplace": "Sorso (SS)"
+    },
+    {
+        "name": "Van der Wiel  Gregory Kurtley",
+        "country": "Olanda",
+        "date": "1988-02-13",
+        "role": "Difensore-Terzino",
+        "photo": "1503768607_vanderwiel.cagliari.jpg",
+        "id": "693",
+        "birthplace": "Amsterdam"
+    },
+    {
+        "name": "Varsi Claudio",
+        "country": "Italia",
+        "date": "1940-11-28",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192190335_varsi.jpg",
+        "id": "382",
+        "birthplace": ""
+    },
+    {
+        "name": "Vasari Gaetano",
+        "country": "Italia",
+        "date": "1970-09-01",
+        "role": "Centrocampista-Laterale",
+        "photo": "1192053575_vasari.jpg",
+        "id": "104",
+        "birthplace": "Palermo"
+    },
+    {
+        "name": "Vasconcelos Ferreira Gabriel",
+        "country": "Brasile",
+        "date": "1992-09-27",
+        "role": "Portiere",
+        "photo": "",
+        "id": "683",
+        "birthplace": "Unai"
+    },
+    {
+        "name": "Vavassori Giovanni",
+        "country": "Italia",
+        "date": "1952-01-16",
+        "role": "Difensore",
+        "photo": "1192048622_vavassori.jpg",
+        "id": "257",
+        "birthplace": "Arcene (BG)"
+    },
+    {
+        "name": "Vecchi William",
+        "country": "Italia",
+        "date": "1948-12-28",
+        "role": "Portiere",
+        "photo": "1191415277_vecchi.jpg",
+        "id": "319",
+        "birthplace": "Scandiano (RE)"
+    },
+    {
+        "name": "Vecino Falero Mat\u00c3\u00adas",
+        "country": "Uruguay",
+        "date": "1991-08-24",
+        "role": "Centrocampista",
+        "photo": "1391066585_Vecino.jpg",
+        "id": "630",
+        "birthplace": "Canelones"
+    },
+    {
+        "name": "Vega Ramon",
+        "country": "Svizzera",
+        "date": "1971-06-14",
+        "role": "Difensore-Centrale",
+        "photo": "1192053302_vega.jpg",
+        "id": "412",
+        "birthplace": "Olten"
+    },
+    {
+        "name": "Venturi Maurizio",
+        "country": "Italia",
+        "date": "1957-10-02",
+        "role": "Difensore",
+        "photo": "1192049812_venturi.jpg",
+        "id": "229",
+        "birthplace": "Brescia"
+    },
+    {
+        "name": "Venturin Giorgio",
+        "country": "Italia",
+        "date": "1968-07-09",
+        "role": "Centrocampista",
+        "photo": "1192052873_venturin.jpg",
+        "id": "138",
+        "birthplace": "Bollate (MI)"
+    },
+    {
+        "name": "Verachi Enrico",
+        "country": "Italia",
+        "date": "1990-01-18",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "566",
+        "birthplace": "Nuoro"
+    },
+    {
+        "name": "Verde Francesco",
+        "country": "Italia",
+        "date": "1999-08-16",
+        "role": "Attaccante",
+        "photo": "",
+        "id": "711",
+        "birthplace": "Aversa"
+    },
+    {
+        "name": "Veronese Simone",
+        "country": "Italia",
+        "date": "1974-07-08",
+        "role": "Difensore",
+        "photo": "1192052418_veronese.jpg",
+        "id": "147",
+        "birthplace": ""
+    },
+    {
+        "name": "Vescovi Raffaello",
+        "country": "Italia",
+        "date": "1940-06-06",
+        "role": "Difensore",
+        "photo": "1191401204_vescovi.jpg",
+        "id": "362",
+        "birthplace": "Lamporecchio (PT)"
+    },
+    {
+        "name": "Vicario Guglielmo",
+        "country": "Italia",
+        "date": "1996-10-07",
+        "role": "Portiere",
+        "photo": "",
+        "id": "727",
+        "birthplace": "Udine"
+    },
+    {
+        "name": "Victorino Waldemar",
+        "country": "Uruguay",
+        "date": "1952-05-22",
+        "role": "Attaccante",
+        "photo": "1192048640_victorino.jpg",
+        "id": "278",
+        "birthplace": "Montevideo (Uruguay)"
+    },
+    {
+        "name": "Vignati Fabio",
+        "country": "Italia",
+        "date": "1984-03-06",
+        "role": "Difensore",
+        "photo": "1192058510_vignati.jpg",
+        "id": "26",
+        "birthplace": "ROMA"
+    },
+    {
+        "name": "Vignoli Viero",
+        "country": "Italia",
+        "date": "1965-09-23",
+        "role": "Difensore",
+        "photo": "",
+        "id": "228",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Vigorito Mauro",
+        "country": "Italia",
+        "date": "1990-05-22",
+        "role": "Portiere",
+        "photo": "",
+        "id": "564",
+        "birthplace": "Macomer"
+    },
+    {
+        "name": "Villa Mario",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "485",
+        "birthplace": ""
+    },
+    {
+        "name": "Villa Matteo",
+        "country": "Italia",
+        "date": "1970-01-23",
+        "role": "Difensore-Centrale",
+        "photo": "1192051720_villa.jpg",
+        "id": "73",
+        "birthplace": "Vimercate (MI)"
+    },
+    {
+        "name": "Villa Silvano",
+        "country": "Italia",
+        "date": "1951-08-13",
+        "role": "Attaccante",
+        "photo": "1191415303_villa.jpg",
+        "id": "303",
+        "birthplace": "Villasanta (MI)"
+    },
+    {
+        "name": "Vincenzi Alfredo",
+        "country": "Italia",
+        "date": "0000-00-00",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "490",
+        "birthplace": ""
+    },
+    {
+        "name": "Viola Fernando",
+        "country": "Italia",
+        "date": "1951-03-14",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191415324_viola.jpg",
+        "id": "323",
+        "birthplace": "Torrazza Piemonte (TO)"
+    },
+    {
+        "name": "Viola Nicolas Benito",
+        "country": "Italia",
+        "date": "1989-10-12",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "755",
+        "birthplace": ""
+    },
+    {
+        "name": "Virdis Antonio Pietro Paolo",
+        "country": "Italia",
+        "date": "1957-06-26",
+        "role": "Attaccante",
+        "photo": "1191415356_virdis.jpg",
+        "id": "289",
+        "birthplace": "Sassari (SS)"
+    },
+    {
+        "name": "Visentin Bruno",
+        "country": "Italia",
+        "date": "1936-01-27",
+        "role": "Centrocampista-Laterale",
+        "photo": "1191401227_visentin.jpg",
+        "id": "371",
+        "birthplace": "S. Don\u00e0 di Piave"
+    },
+    {
+        "name": "Vitali Alessandro",
+        "country": "Italia",
+        "date": "1945-03-06",
+        "role": "Attaccante",
+        "photo": "1191415380_vitali.jpg",
+        "id": "346",
+        "birthplace": "Cento (FE)"
+    },
+    {
+        "name": "Vitor Gomes Hugo Da Silva",
+        "country": "Portogallo",
+        "date": "1987-12-25",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "454",
+        "birthplace": "Vila Do Conde (POR)"
+    },
+    {
+        "name": "Walukiewicz Sebastian",
+        "country": "Polonia",
+        "date": "2000-04-05",
+        "role": "Difensore",
+        "photo": "",
+        "id": "716",
+        "birthplace": "Gorz\u00c3\u00b3w Wielkopolski"
+    },
+    {
+        "name": "Wieteska Mateusz",
+        "country": "Polonia",
+        "date": "1997-02-11",
+        "role": "Difensore",
+        "photo": "1773932672_wietska.jpeg",
+        "id": "776",
+        "birthplace": "Warsaw"
+    },
+    {
+        "name": "Wilson James",
+        "country": "Italia",
+        "date": "1972-01-18",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "180",
+        "birthplace": "Roma"
+    },
+    {
+        "name": "Winks Harry Billy",
+        "country": "Inghilterra",
+        "date": "1996-02-02",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "813",
+        "birthplace": "Hemel Hempstead"
+    },
+    {
+        "name": "Zaccolo Alessandro",
+        "country": "Italia",
+        "date": "1961-08-30",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "414",
+        "birthplace": "Cagliari"
+    },
+    {
+        "name": "Zandon\u00e0 Giuseppe",
+        "country": "Italia",
+        "date": "1955-09-08",
+        "role": "Difensore",
+        "photo": "1192050934_zandona.jpg",
+        "id": "213",
+        "birthplace": "Tripoli (Libia)"
+    },
+    {
+        "name": "Zanetti Cristiano",
+        "country": "Italia",
+        "date": "1977-04-10",
+        "role": "Centrocampista-Centrale",
+        "photo": "1192055107_zanetti.jpg",
+        "id": "102",
+        "birthplace": "Carrara (MS)"
+    },
+    {
+        "name": "Zannoni Davide",
+        "country": "Italia",
+        "date": "1962-05-19",
+        "role": "Centrocampista",
+        "photo": "",
+        "id": "253",
+        "birthplace": "Verucchio (FC)"
+    },
+    {
+        "name": "Zanoncelli Francesco",
+        "country": "Italia",
+        "date": "1967-09-11",
+        "role": "Difensore-Centrale",
+        "photo": "1192053625_zanoncelli.jpg",
+        "id": "98",
+        "birthplace": "Milano"
+    },
+    {
+        "name": "Zappa Gabriele",
+        "country": "Italia",
+        "date": "1999-12-22",
+        "role": "Difensore-Terzino",
+        "photo": "1602575010_foto_zappa.jpg",
+        "id": "730",
+        "birthplace": "Monza"
+    },
+    {
+        "name": "Zebina Jonathan",
+        "country": "Francia",
+        "date": "1978-07-19",
+        "role": "Difensore-Terzino",
+        "photo": "1192055123_zebina.jpg",
+        "id": "88",
+        "birthplace": "Parigi"
+    },
+    {
+        "name": "Zignoli Giulio",
+        "country": "Italia",
+        "date": "1946-04-19",
+        "role": "Difensore-Terzino",
+        "photo": "1191415405_zignoli.jpg",
+        "id": "354",
+        "birthplace": "Verona"
+    },
+    {
+        "name": "Zola Gianfranco",
+        "country": "Italia",
+        "date": "1966-07-05",
+        "role": "Fantasista",
+        "photo": "1192058176_zola.jpg",
+        "id": "2",
+        "birthplace": "OLIENA (NU)"
+    },
+    {
+        "name": "Zortea Nadir",
+        "country": "Italia",
+        "date": "1999-06-19",
+        "role": "Difensore",
+        "photo": "1773932715_zortea.jpeg",
+        "id": "786",
+        "birthplace": "Feltre"
+    }
+]
